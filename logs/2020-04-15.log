@@ -1,0 +1,612 @@
+2020-04-15 09:58:25,803 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 09:58:28,348 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 09:58:30,167 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 09:58:30,210 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 09:58:30,412 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 09:58:30,445 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 09:58:30,526 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 09:58:30,569 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 09:58:30,623 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 09:58:31,656 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 09:58:31,726 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 09:58:32,770 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 09:58:32,883 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 09:58:33,920 - BasePage - INFO - 通过 xpath via value: //span[text()='添加人脸摄像机'] 定位元素成功：'添加人脸摄像机' 
+2020-04-15 09:58:34,020 - BasePage - INFO - 元素'添加人脸摄像机'\ 被点击.
+2020-04-15 09:58:35,053 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入正确摄像机ip地址'] 定位元素成功：'' 
+2020-04-15 09:58:35,214 - BasePage - INFO - 输入文本内容：' 192.168.1.12 '
+2020-04-15 09:58:35,246 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[2]/div/div/div/input 定位元素成功：'' 
+2020-04-15 09:58:35,313 - BasePage - INFO - 输入文本内容：' 80000 '
+2020-04-15 09:58:35,346 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[3]/div/div/input 定位元素成功：'' 
+2020-04-15 09:58:35,440 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 09:58:35,476 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[4]/div/div/input 定位元素成功：'' 
+2020-04-15 09:58:35,610 - BasePage - INFO - 输入文本内容：' 123456yanfa '
+2020-04-15 09:58:35,645 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='摄像机id号不可重复'] 定位元素成功：'' 
+2020-04-15 09:58:35,713 - BasePage - INFO - 输入文本内容：' 188 '
+2020-04-15 10:30:46,204 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 10:30:48,320 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 10:30:50,151 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 10:30:50,186 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 10:30:50,303 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 10:30:50,329 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 10:30:50,420 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 10:30:50,447 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 10:30:50,502 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 10:30:51,552 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 10:30:51,640 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 10:30:52,665 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 10:30:52,787 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 10:30:53,814 - BasePage - INFO - 通过 xpath via value: //span[text()='添加人脸摄像机'] 定位元素成功：'添加人脸摄像机' 
+2020-04-15 10:30:53,902 - BasePage - INFO - 元素'添加人脸摄像机'\ 被点击.
+2020-04-15 10:30:54,930 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入正确摄像机ip地址'] 定位元素成功：'' 
+2020-04-15 10:30:55,103 - BasePage - INFO - 输入文本内容：' 192.168.1.12 '
+2020-04-15 10:30:55,132 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[2]/div/div/div/input 定位元素成功：'' 
+2020-04-15 10:30:55,197 - BasePage - INFO - 输入文本内容：' 80000 '
+2020-04-15 10:30:55,224 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[3]/div/div/input 定位元素成功：'' 
+2020-04-15 10:30:55,321 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 10:30:55,352 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[4]/div/div/input 定位元素成功：'' 
+2020-04-15 10:30:55,484 - BasePage - INFO - 输入文本内容：' 123456yanfa '
+2020-04-15 10:30:55,511 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='摄像机id号不可重复'] 定位元素成功：'' 
+2020-04-15 10:30:55,585 - BasePage - INFO - 输入文本内容：' 188 '
+2020-04-15 10:30:55,626 - BasePage - INFO - 通过 xpath via value: //i[@class='el-dialog__close el-icon el-icon-close'] 定位元素成功：'' 
+2020-04-15 10:52:11,909 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 10:52:14,024 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 10:52:15,853 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 10:52:15,889 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 10:52:15,999 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 10:52:16,025 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 10:52:16,101 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 10:52:16,136 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 10:52:16,198 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 10:52:17,233 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 10:52:17,293 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 10:52:18,325 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 10:52:18,441 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 10:52:19,469 - BasePage - INFO - 通过 xpath via value: //span[text()='添加人脸摄像机'] 定位元素成功：'添加人脸摄像机' 
+2020-04-15 10:52:19,573 - BasePage - INFO - 元素'添加人脸摄像机'\ 被点击.
+2020-04-15 10:52:20,599 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入正确摄像机ip地址'] 定位元素成功：'' 
+2020-04-15 10:52:20,756 - BasePage - INFO - 输入文本内容：' 192.168.1.12 '
+2020-04-15 10:52:20,783 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[2]/div/div/div/input 定位元素成功：'' 
+2020-04-15 10:52:20,853 - BasePage - INFO - 输入文本内容：' 80000 '
+2020-04-15 10:52:20,878 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[3]/div/div/input 定位元素成功：'' 
+2020-04-15 10:52:20,971 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 10:52:20,999 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[4]/div/div/input 定位元素成功：'' 
+2020-04-15 10:52:21,136 - BasePage - INFO - 输入文本内容：' 123456yanfa '
+2020-04-15 10:52:21,167 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='摄像机id号不可重复'] 定位元素成功：'' 
+2020-04-15 10:52:21,241 - BasePage - INFO - 输入文本内容：' 188 '
+2020-04-15 10:52:21,273 - BasePage - INFO - 通过 xpath via value: //span[text()='确 定'] 定位元素成功：'确 定' 
+2020-04-15 10:52:21,342 - BasePage - INFO - 元素'确 定'\ 被点击.
+2020-04-15 10:52:21,708 - BasePage - INFO - 开始截图并保存
+2020-04-15 11:26:07,106 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:26:09,283 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:26:11,098 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:26:11,138 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:26:11,290 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:26:11,326 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:26:11,407 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:26:11,446 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:26:11,502 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:26:12,537 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:26:12,614 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:26:13,651 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:26:13,769 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:26:16,930 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:26:19,071 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:26:20,912 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:26:20,945 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:26:21,029 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:26:21,056 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:26:21,128 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:26:21,163 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:26:21,214 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:26:22,241 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:26:22,316 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:26:23,349 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:26:23,450 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:26:26,571 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:26:28,599 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:26:30,440 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:26:30,483 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:26:30,559 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:26:30,586 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:26:30,657 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:26:30,685 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:26:30,737 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:26:31,779 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:26:31,844 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:26:32,879 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:26:32,976 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:26:36,087 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:26:38,196 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:26:40,030 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:26:40,067 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:26:40,143 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:26:40,171 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:26:40,241 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:26:40,270 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:26:40,326 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:26:41,360 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:26:41,431 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:26:42,462 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:26:42,570 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:26:45,684 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:26:47,776 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:26:49,640 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:26:49,674 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:26:49,774 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:26:49,799 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:26:49,874 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:26:49,901 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:26:49,953 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:26:50,979 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:26:51,044 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:26:52,075 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:26:52,184 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:26:55,337 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:26:57,444 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:26:59,259 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:26:59,294 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:26:59,392 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:26:59,421 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:26:59,500 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:26:59,526 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:26:59,576 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:27:00,619 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:27:00,724 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:27:01,750 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:27:01,846 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:27:04,995 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:27:07,071 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:27:08,910 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:27:08,944 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:27:09,044 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:27:09,074 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:27:09,156 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:27:09,184 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:27:09,234 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:27:10,265 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:27:10,327 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:27:11,361 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:27:11,466 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:27:14,901 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:27:17,348 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:27:19,590 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:27:19,623 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:27:19,722 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:27:19,749 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:27:19,825 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:27:19,854 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:27:19,911 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:27:20,943 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:27:21,020 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:27:22,054 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:27:22,172 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:27:25,303 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:27:27,398 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:27:29,227 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:27:29,262 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:27:29,383 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:27:29,409 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:27:29,490 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:27:29,521 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:27:29,576 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:27:30,602 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:27:30,662 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:27:31,691 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:27:31,799 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:27:34,951 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:27:37,036 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:27:38,860 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:27:38,900 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:27:39,005 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:27:39,032 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:27:39,117 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:27:39,144 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:27:39,196 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:27:40,224 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:27:40,295 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:27:41,324 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:27:41,432 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:27:44,585 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:27:46,659 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:27:48,509 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:27:48,544 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:27:48,626 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:27:48,655 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:27:48,733 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:27:48,760 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:27:48,823 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:27:49,851 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:27:49,914 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:27:50,947 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:27:51,052 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:27:54,194 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:27:56,316 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:27:58,154 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:27:58,189 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:27:58,270 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:27:58,298 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:27:58,391 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:27:58,421 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:27:58,473 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:27:59,501 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:27:59,559 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:28:00,597 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:28:00,703 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:28:03,811 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:28:05,923 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:28:07,787 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:28:07,820 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:28:07,898 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:28:07,925 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:28:07,999 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:28:08,025 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:28:08,077 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:28:09,103 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:28:09,220 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:28:10,250 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:28:10,348 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:30:04,259 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:30:06,536 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:30:08,488 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:30:08,522 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:30:08,601 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:30:08,628 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:30:08,704 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:30:08,738 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:30:08,790 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:30:09,818 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:30:09,938 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:30:10,965 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:30:11,060 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:30:14,191 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:30:16,285 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:30:18,222 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:30:18,269 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:30:18,382 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:30:18,410 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:30:18,492 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:30:18,521 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:30:18,572 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:30:19,601 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:30:19,661 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:30:20,690 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:30:20,801 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:30:23,942 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:30:26,004 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:30:27,822 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:30:27,860 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:30:27,942 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:30:27,968 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:30:28,047 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:30:28,080 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:30:28,143 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:30:29,202 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:30:29,313 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:30:30,341 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:30:30,451 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:30:33,582 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:30:35,786 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:30:37,603 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:30:37,643 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:30:37,725 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:30:37,749 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:30:37,825 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:30:37,856 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:30:37,909 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:30:38,938 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:30:39,096 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:30:40,123 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:30:40,235 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:30:43,368 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:30:45,445 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:30:47,273 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:30:47,310 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:30:47,394 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:30:47,420 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:30:47,496 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:30:47,522 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:30:47,573 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:30:48,601 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:30:48,660 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:30:49,691 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:30:49,804 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:31:51,904 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:31:54,010 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:31:55,831 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:31:55,865 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:31:55,959 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:31:55,989 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:31:56,072 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:31:56,100 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:31:56,152 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:31:57,187 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:31:57,261 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:31:58,294 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:31:58,398 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:32:01,546 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:32:03,736 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:32:05,707 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:32:05,741 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:32:05,840 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:32:05,866 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:32:05,940 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:32:05,973 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:32:06,041 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:32:07,070 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:32:07,160 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:32:08,187 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:32:08,283 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 11:32:11,436 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:32:13,513 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:58:20,993 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 11:58:23,065 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 11:58:25,092 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 11:58:25,132 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 11:58:25,209 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 11:58:25,253 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 11:58:25,332 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 11:58:25,360 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 11:58:25,411 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 11:58:26,439 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 11:58:26,512 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 11:58:27,543 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 11:58:27,654 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 13:50:19,270 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 13:50:21,503 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 13:50:23,424 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 13:50:23,480 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 13:50:23,568 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 13:50:23,602 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 13:50:23,675 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 13:50:23,715 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 13:50:23,768 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 13:50:24,802 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 13:50:24,868 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 13:50:25,905 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 13:50:26,026 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 14:13:48,383 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 14:13:50,481 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 14:13:52,358 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 14:13:52,393 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 14:13:52,550 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:13:52,577 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 14:13:52,661 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 14:13:52,687 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 14:13:52,754 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 14:13:53,818 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 14:13:53,891 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 14:13:54,928 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 14:13:55,040 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 14:13:57,075 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入设备编号'] 定位元素成功：'' 
+2020-04-15 14:13:57,096 - BasePage - INFO - 清除输入文本.
+2020-04-15 14:13:57,130 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入设备编号'] 定位元素成功：'' 
+2020-04-15 14:13:57,190 - BasePage - INFO - 输入文本内容：' 1885 '
+2020-04-15 14:13:57,228 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入服务器ip地址'] 定位元素成功：'' 
+2020-04-15 14:13:57,249 - BasePage - INFO - 清除输入文本.
+2020-04-15 14:13:57,263 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入服务器ip地址'] 定位元素成功：'' 
+2020-04-15 14:13:57,379 - BasePage - INFO - 输入文本内容：' 192.168.3.230 '
+2020-04-15 14:13:57,413 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div/form/div[3]/div/div/div/input 定位元素成功：'' 
+2020-04-15 14:13:57,435 - BasePage - INFO - 清除输入文本.
+2020-04-15 14:13:57,450 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div/form/div[3]/div/div/div/input 定位元素成功：'' 
+2020-04-15 14:13:57,504 - BasePage - INFO - 输入文本内容：' 27020 '
+2020-04-15 14:13:57,549 - BasePage - INFO - 通过 xpath via value: //span[text()='确 定'] 定位元素成功：'确 定' 
+2020-04-15 14:13:57,633 - BasePage - INFO - 元素'确 定'\ 被点击.
+2020-04-15 14:14:01,971 - BasePage - INFO - 开始截图并保存
+2020-04-15 14:43:38,542 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 14:43:40,700 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 14:43:42,509 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 14:43:42,545 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 14:43:42,731 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:43:42,758 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 14:43:42,839 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 14:43:42,867 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 14:43:42,918 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 14:43:43,951 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 14:43:44,015 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 14:43:45,047 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 14:43:45,167 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 14:43:49,347 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 14:43:51,479 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 14:43:53,297 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 14:43:53,340 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 14:43:53,495 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:43:53,525 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 14:43:53,609 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 14:43:53,639 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 14:43:53,694 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 14:43:54,730 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 14:43:54,798 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 14:43:55,828 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 14:43:55,945 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 14:45:59,709 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 14:46:01,871 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 14:46:03,746 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 14:46:03,787 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 14:46:03,875 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:46:03,909 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 14:46:04,038 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 14:46:04,065 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 14:46:04,117 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 14:47:02,735 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 14:47:04,880 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 14:47:06,889 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 14:47:06,930 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 14:47:07,040 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:47:07,068 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 14:47:07,142 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 14:47:07,174 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 14:47:07,234 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 14:47:08,261 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 14:47:08,332 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 14:47:09,370 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 14:47:09,491 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 14:47:13,645 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 14:47:15,756 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 14:47:17,589 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 14:47:17,624 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 14:47:17,746 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:47:17,774 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 14:47:17,856 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 14:47:17,893 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 14:47:17,955 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 14:47:18,990 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 14:47:19,048 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 14:47:20,084 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 14:47:20,202 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 14:55:21,935 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 14:55:24,072 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 14:55:26,027 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 14:55:26,073 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 14:55:26,213 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:55:26,348 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 14:55:26,427 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 14:55:26,464 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 14:55:26,523 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 14:55:27,555 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 14:55:27,645 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 14:55:28,680 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 14:55:28,796 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 14:55:29,831 - BasePage - INFO - 通过 xpath via value: //span[text()='添加人脸摄像机'] 定位元素成功：'添加人脸摄像机' 
+2020-04-15 14:55:29,923 - BasePage - INFO - 元素'添加人脸摄像机'\ 被点击.
+2020-04-15 14:55:30,980 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入正确摄像机ip地址'] 定位元素成功：'' 
+2020-04-15 14:55:31,142 - BasePage - INFO - 输入文本内容：' 192.168.1.12 '
+2020-04-15 14:55:31,190 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[2]/div/div/div/input 定位元素成功：'' 
+2020-04-15 14:55:31,260 - BasePage - INFO - 输入文本内容：' 80000 '
+2020-04-15 14:55:31,292 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[3]/div/div/input 定位元素成功：'' 
+2020-04-15 14:55:31,401 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:55:31,435 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[4]/div/div/input 定位元素成功：'' 
+2020-04-15 14:55:31,572 - BasePage - INFO - 输入文本内容：' 123456yanfa '
+2020-04-15 14:55:31,608 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='摄像机id号不可重复'] 定位元素成功：'' 
+2020-04-15 14:55:31,679 - BasePage - INFO - 输入文本内容：' 188 '
+2020-04-15 14:55:31,706 - BasePage - INFO - 通过 xpath via value: //span[text()='确 定'] 定位元素成功：'确 定' 
+2020-04-15 14:55:31,764 - BasePage - INFO - 元素'确 定'\ 被点击.
+2020-04-15 14:55:32,193 - BasePage - INFO - 开始截图并保存
+2020-04-15 14:56:48,024 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 14:56:50,119 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 14:56:52,001 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 14:56:52,099 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 14:56:52,203 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:56:52,229 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 14:56:52,308 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 14:56:52,342 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 14:56:52,393 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 14:56:53,425 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 14:56:53,521 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 14:56:54,555 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 14:56:54,684 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 14:56:55,711 - BasePage - INFO - 通过 xpath via value: //span[text()='添加人脸摄像机'] 定位元素成功：'添加人脸摄像机' 
+2020-04-15 14:56:55,806 - BasePage - INFO - 元素'添加人脸摄像机'\ 被点击.
+2020-04-15 14:56:56,831 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入正确摄像机ip地址'] 定位元素成功：'' 
+2020-04-15 14:56:56,889 - BasePage - INFO - 输入文本内容：'  '
+2020-04-15 14:56:56,917 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[2]/div/div/div/input 定位元素成功：'' 
+2020-04-15 14:56:56,993 - BasePage - INFO - 输入文本内容：' 80000 '
+2020-04-15 14:56:57,021 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[3]/div/div/input 定位元素成功：'' 
+2020-04-15 14:56:57,085 - BasePage - INFO - 输入文本内容：'  '
+2020-04-15 14:56:57,123 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[4]/div/div/input 定位元素成功：'' 
+2020-04-15 14:56:57,179 - BasePage - INFO - 输入文本内容：'  '
+2020-04-15 14:56:57,209 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='摄像机id号不可重复'] 定位元素成功：'' 
+2020-04-15 14:56:57,330 - BasePage - INFO - 输入文本内容：'  '
+2020-04-15 14:56:57,360 - BasePage - INFO - 通过 xpath via value: //span[text()='确 定'] 定位元素成功：'确 定' 
+2020-04-15 14:56:57,442 - BasePage - INFO - 元素'确 定'\ 被点击.
+2020-04-15 14:56:57,804 - BasePage - INFO - 开始截图并保存
+2020-04-15 14:57:01,979 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 14:57:04,079 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 14:57:05,944 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 14:57:05,980 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 14:57:06,157 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:57:06,185 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 14:57:06,265 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 14:57:06,292 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 14:57:06,345 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 14:57:07,375 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 14:57:07,455 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 14:57:08,482 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸摄像机'] 定位元素成功：'人脸摄像机' 
+2020-04-15 14:57:13,583 - BasePage - INFO - 元素'人脸摄像机'\ 被点击.
+2020-04-15 14:57:14,612 - BasePage - INFO - 通过 xpath via value: //span[text()='添加人脸摄像机'] 定位元素成功：'添加人脸摄像机' 
+2020-04-15 14:57:19,723 - BasePage - INFO - 元素'添加人脸摄像机'\ 被点击.
+2020-04-15 14:57:20,773 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入正确摄像机ip地址'] 定位元素成功：'' 
+2020-04-15 14:57:20,947 - BasePage - INFO - 输入文本内容：' 192.168.1.12 '
+2020-04-15 14:57:20,974 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[2]/div/div/div/input 定位元素成功：'' 
+2020-04-15 14:57:21,037 - BasePage - INFO - 输入文本内容：' 80000 '
+2020-04-15 14:57:21,063 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[3]/div/div/input 定位元素成功：'' 
+2020-04-15 14:57:21,161 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 14:57:21,192 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[3]/div/div[2]/form/div[4]/div/div/input 定位元素成功：'' 
+2020-04-15 14:57:21,259 - BasePage - INFO - 输入文本内容：'  '
+2020-04-15 14:57:21,288 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='摄像机id号不可重复'] 定位元素成功：'' 
+2020-04-15 14:57:21,373 - BasePage - INFO - 输入文本内容：' 188 '
+2020-04-15 14:57:21,401 - BasePage - INFO - 通过 xpath via value: //span[text()='确 定'] 定位元素成功：'确 定' 
+2020-04-15 14:57:26,474 - BasePage - INFO - 元素'确 定'\ 被点击.
+2020-04-15 14:57:26,918 - BasePage - INFO - 开始截图并保存
+2020-04-15 15:01:02,167 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 15:01:04,287 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 15:01:06,237 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 15:01:06,295 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 15:01:06,406 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 15:01:06,435 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 15:01:06,512 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 15:01:06,550 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 15:01:06,605 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 15:01:07,634 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 15:01:07,701 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 15:01:08,763 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 15:01:08,874 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 15:01:10,902 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入设备编号'] 定位元素成功：'' 
+2020-04-15 15:01:10,923 - BasePage - INFO - 清除输入文本.
+2020-04-15 15:01:10,941 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入设备编号'] 定位元素成功：'' 
+2020-04-15 15:01:10,983 - BasePage - INFO - 输入文本内容：'  '
+2020-04-15 15:01:11,010 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入服务器ip地址'] 定位元素成功：'' 
+2020-04-15 15:01:11,030 - BasePage - INFO - 清除输入文本.
+2020-04-15 15:01:11,046 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入服务器ip地址'] 定位元素成功：'' 
+2020-04-15 15:01:11,165 - BasePage - INFO - 输入文本内容：' 192.168.3.230 '
+2020-04-15 15:01:11,198 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div/form/div[3]/div/div/div/input 定位元素成功：'' 
+2020-04-15 15:01:11,221 - BasePage - INFO - 清除输入文本.
+2020-04-15 15:01:11,236 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div/form/div[3]/div/div/div/input 定位元素成功：'' 
+2020-04-15 15:01:11,308 - BasePage - INFO - 输入文本内容：' 27020 '
+2020-04-15 15:01:11,335 - BasePage - INFO - 通过 xpath via value: //span[text()='确 定'] 定位元素成功：'确 定' 
+2020-04-15 15:01:11,404 - BasePage - INFO - 元素'确 定'\ 被点击.
+2020-04-15 15:01:15,743 - BasePage - INFO - 开始截图并保存
+2020-04-15 15:01:17,892 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 15:01:20,059 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 15:01:22,025 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 15:01:22,064 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 15:01:22,171 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 15:01:22,196 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 15:01:22,275 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 15:01:22,310 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 15:01:22,360 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 15:01:23,392 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 15:01:23,472 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 15:01:24,504 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'人脸平台信息' 
+2020-04-15 15:01:24,608 - BasePage - INFO - 元素'人脸平台信息'\ 被点击.
+2020-04-15 15:01:26,638 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入设备编号'] 定位元素成功：'' 
+2020-04-15 15:01:26,660 - BasePage - INFO - 清除输入文本.
+2020-04-15 15:01:26,678 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入设备编号'] 定位元素成功：'' 
+2020-04-15 15:01:26,757 - BasePage - INFO - 输入文本内容：' 1885534 '
+2020-04-15 15:01:26,785 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入服务器ip地址'] 定位元素成功：'' 
+2020-04-15 15:01:26,805 - BasePage - INFO - 清除输入文本.
+2020-04-15 15:01:26,820 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入服务器ip地址'] 定位元素成功：'' 
+2020-04-15 15:01:26,938 - BasePage - INFO - 输入文本内容：' 192.168.3.230 '
+2020-04-15 15:01:26,964 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div/form/div[3]/div/div/div/input 定位元素成功：'' 
+2020-04-15 15:01:26,986 - BasePage - INFO - 清除输入文本.
+2020-04-15 15:01:27,000 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div/form/div[3]/div/div/div/input 定位元素成功：'' 
+2020-04-15 15:01:27,056 - BasePage - INFO - 输入文本内容：' 27020 '
+2020-04-15 15:01:27,082 - BasePage - INFO - 通过 xpath via value: //span[text()='确 定'] 定位元素成功：'确 定' 
+2020-04-15 15:01:27,150 - BasePage - INFO - 元素'确 定'\ 被点击.
+2020-04-15 15:01:31,494 - BasePage - INFO - 开始截图并保存
+2020-04-15 15:01:33,650 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 15:01:35,804 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 15:01:37,624 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 15:01:37,692 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-15 15:01:37,838 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-15 15:01:37,866 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-15 15:01:37,943 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-15 15:01:37,973 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-15 15:01:38,031 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-15 15:01:39,059 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸识别'] 定位元素成功：'人脸识别' 
+2020-04-15 15:01:39,134 - BasePage - INFO - 元素'人脸识别'\ 被点击.
+2020-04-15 15:01:40,163 - BasePage - INFO - 通过 xpath via value: //span[text()='人脸平台信息'] 定位元素成功：'' 
+2020-04-15 15:01:40,254 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-15 15:01:42,379 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-15 15:01:44,230 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-15 15:01:44,275 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 

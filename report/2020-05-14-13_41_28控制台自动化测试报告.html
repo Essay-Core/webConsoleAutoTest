@@ -1,0 +1,2344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>控制台自动化测试报告</title>
+    <meta name="generator" content="HTMLTestRunner0.8.4"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    
+<style type="text/css" media="screen">
+body        { font-family: Microsoft YaHei,Tahoma,arial,helvetica,sans-serif;padding: 20px; font-size: 100%; }
+table       { font-size: 100%; }
+/* -- heading ---------------------------------------------------------------------- */
+.heading {
+    margin-top: 0ex;
+    margin-bottom: 1ex;
+    width: 50%;
+    height: 230px;
+    float: left;
+}
+.div_a {
+    height:250x;
+}
+.div_r {
+    width: 50%;
+    height:230px;
+    float: right;
+    margin-bottom: 1ex;
+    margin-top: 50px;
+}
+.heading .description {
+    margin-top: 4ex;
+    margin-bottom: 6ex;
+}
+/* -- report ------------------------------------------------------------------------ */
+#total_row  { font-weight: bold; }
+.passCase   { color: #5cb85c; }
+.failCase   { color: #d9534f; font-weight: bold; }
+.errorCase  { color: #f0ad4e; font-weight: bold; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+</style>
+
+</head>
+<body >
+<div class='div_a'>
+<div class='heading'>
+<h1 style="font-family: Microsoft YaHei">控制台自动化测试报告</h1>
+<p class='attribute'><strong>测试人员 : </strong> 谢慧琴</p>
+<p class='attribute'><strong>开始时间 : </strong> 2020-05-14 13:41:29</p>
+<p class='attribute'><strong>合计耗时 : </strong> 0:37:27.042620</p>
+<p class='attribute'><strong>测试结果 : </strong> 共 119，通过 88，错误 31，通过率= 73.95%</p>
+
+<p class='description'>用例测试情况:</p>
+</div>
+<div class="div_r">
+	<p>
+    <canvas id="canvas_circle"></canvas>
+</p>
+</div>
+</div>
+
+
+<p id='show_detail_line'>
+<a class="btn btn-primary" href='javascript:showCase(4)'>预览{ 73.95% }</a>
+<a class="btn btn-success" href='javascript:showCase(0)'>通过{ 88 }</a>
+<a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+<a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 31 }</a>
+<a class="btn btn-info" href='javascript:showCase(3)'>全览{ 119 }</a>
+</p>
+<table id='result_table' class="table table-condensed table-bordered table-hover">
+<colgroup>
+<col align='left' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+</colgroup>
+<tr id='header_row' class="text-center active" style="font-weight: bold;font-size: 14px;">
+    <td>用例集/测试用例</td>
+    <td>总计</td>
+    <td>通过</td>
+    <td>失败</td>
+    <td>错误</td>
+    <td>详细</td>
+</tr>
+
+<tr class='success'>
+    <td>test_base_dive_time.Dive_time</td>
+    <td class="text-center">1</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c1',1)" class="detail" id='c1'>详细</a></td>
+</tr>
+
+<tr id='pt1_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_selectAweek</div></td>
+    <td colspan='5' align='center'><button id='btn_pt1_1' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt1_1'>通过</button></td>
+</tr>
+
+<tr class='warning'>
+    <td>test_console_login.consoleLogin</td>
+    <td class="text-center">30</td>
+    <td class="text-center">29</td>
+    <td class="text-center">0</td>
+    <td class="text-center">1</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c2',30)" class="detail" id='c2'>详细</a></td>
+</tr>
+
+<tr id='pt2_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail1</div></td>
+    <td colspan='5' align='center'><button id='btn_pt2_1' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt2_1'>通过</button></td>
+</tr>
+
+<tr id='pt2_2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail10</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_2' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_2'>通过</button>
+    <div id='div_pt2_2' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_2' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_2'>通过</button>
+    <div id='div_pt2_2' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_2: test_console_login_fail10
+test_console_login_fail10
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_3' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail11</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_3' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_3'>通过</button>
+    <div id='div_pt2_3' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_3' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_3'>通过</button>
+    <div id='div_pt2_3' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_3: test_console_login_fail11
+test_console_login_fail11
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_4' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail12</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_4' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_4'>通过</button>
+    <div id='div_pt2_4' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_4' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_4'>通过</button>
+    <div id='div_pt2_4' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_4: test_console_login_fail12
+test_console_login_fail12
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_5' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail13</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_5' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_5'>通过</button>
+    <div id='div_pt2_5' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_5' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_5'>通过</button>
+    <div id='div_pt2_5' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_5: test_console_login_fail13
+test_console_login_fail13
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_6' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail14</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_6' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_6'>通过</button>
+    <div id='div_pt2_6' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_6' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_6'>通过</button>
+    <div id='div_pt2_6' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_6: test_console_login_fail14
+test_console_login_fail14
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_7' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail15</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_7' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_7'>通过</button>
+    <div id='div_pt2_7' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_7' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_7'>通过</button>
+    <div id='div_pt2_7' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_7: test_console_login_fail15
+test_console_login_fail15
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_8' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail16</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_8' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_8'>通过</button>
+    <div id='div_pt2_8' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_8' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_8'>通过</button>
+    <div id='div_pt2_8' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_8: test_console_login_fail16
+test_console_login_fail16
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_9' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail17</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_9' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_9'>通过</button>
+    <div id='div_pt2_9' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_9' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_9'>通过</button>
+    <div id='div_pt2_9' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_9: test_console_login_fail17
+test_console_login_fail17
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_10' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail18</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_10' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_10'>通过</button>
+    <div id='div_pt2_10' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_10' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_10'>通过</button>
+    <div id='div_pt2_10' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_10: test_console_login_fail18
+test_console_login_fail18
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_11' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail19</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_11' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_11'>通过</button>
+    <div id='div_pt2_11' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_11' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_11'>通过</button>
+    <div id='div_pt2_11' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_11: test_console_login_fail19
+test_console_login_fail19
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_12' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail2</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_12' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_12'>通过</button>
+    <div id='div_pt2_12' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_12' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_12'>通过</button>
+    <div id='div_pt2_12' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_12: test_console_login_fail2
+test_console_login_fail2
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_13' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail20</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_13' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_13'>通过</button>
+    <div id='div_pt2_13' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_13' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_13'>通过</button>
+    <div id='div_pt2_13' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_13: test_console_login_fail20
+test_console_login_fail20
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_14' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail21</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_14' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_14'>通过</button>
+    <div id='div_pt2_14' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_14' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_14'>通过</button>
+    <div id='div_pt2_14' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_14: test_console_login_fail21
+test_console_login_fail21
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_15' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail22</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_15' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_15'>通过</button>
+    <div id='div_pt2_15' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_15' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_15'>通过</button>
+    <div id='div_pt2_15' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_15: test_console_login_fail22
+test_console_login_fail22
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_16' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail23</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_16' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_16'>通过</button>
+    <div id='div_pt2_16' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_16' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_16'>通过</button>
+    <div id='div_pt2_16' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_16: test_console_login_fail23
+test_console_login_fail23
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_17' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail24</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_17' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_17'>通过</button>
+    <div id='div_pt2_17' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_17' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_17'>通过</button>
+    <div id='div_pt2_17' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_17: test_console_login_fail24
+test_console_login_fail24
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_18' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail25</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_18' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_18'>通过</button>
+    <div id='div_pt2_18' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_18' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_18'>通过</button>
+    <div id='div_pt2_18' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_18: test_console_login_fail25
+test_console_login_fail25
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_19' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail26</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_19' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_19'>通过</button>
+    <div id='div_pt2_19' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_19' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_19'>通过</button>
+    <div id='div_pt2_19' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_19: test_console_login_fail26
+test_console_login_fail26
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_20' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail27</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_20' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_20'>通过</button>
+    <div id='div_pt2_20' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_20' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_20'>通过</button>
+    <div id='div_pt2_20' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_20: test_console_login_fail27
+test_console_login_fail27
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_21' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail28</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_21' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_21'>通过</button>
+    <div id='div_pt2_21' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_21' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_21'>通过</button>
+    <div id='div_pt2_21' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_21: test_console_login_fail28
+test_console_login_fail28
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et2_22' class='none'>
+    <td class='errorCase'><div class='testcase'>test_console_login_fail29</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et2_22' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et2_22'>错误</button>
+    <div id='div_et2_22' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et2_22' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et2_22'>错误</button>
+    <div id='div_et2_22' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et2_22: test_console_login_fail29
+Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_console_login.py", line 754, in test_console_login_fail29
+    login = HomePage(self.driver)
+NameError: name 'self' is not defined
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_23' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail3</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_23' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_23'>通过</button>
+    <div id='div_pt2_23' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_23' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_23'>通过</button>
+    <div id='div_pt2_23' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_23: test_console_login_fail3
+test_console_login_fail3
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_24' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail4</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_24' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_24'>通过</button>
+    <div id='div_pt2_24' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_24' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_24'>通过</button>
+    <div id='div_pt2_24' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_24: test_console_login_fail4
+test_console_login_fail4
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_25' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail5</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_25' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_25'>通过</button>
+    <div id='div_pt2_25' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_25' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_25'>通过</button>
+    <div id='div_pt2_25' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_25: test_console_login_fail5
+test_console_login_fail5
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_26' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail6</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_26' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_26'>通过</button>
+    <div id='div_pt2_26' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_26' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_26'>通过</button>
+    <div id='div_pt2_26' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_26: test_console_login_fail6
+test_console_login_fail6
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_27' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail7</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_27' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_27'>通过</button>
+    <div id='div_pt2_27' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_27' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_27'>通过</button>
+    <div id='div_pt2_27' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_27: test_console_login_fail7
+test_console_login_fail7
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_28' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail8</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_28' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_28'>通过</button>
+    <div id='div_pt2_28' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_28' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_28'>通过</button>
+    <div id='div_pt2_28' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_28: test_console_login_fail8
+test_console_login_fail8
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_29' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_fail9</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_29' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_29'>通过</button>
+    <div id='div_pt2_29' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_29' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_29'>通过</button>
+    <div id='div_pt2_29' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_29: test_console_login_fail9
+test_console_login_fail9
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_30' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_console_login_pass1</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt2_30' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_30'>通过</button>
+    <div id='div_pt2_30' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt2_30' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt2_30'>通过</button>
+    <div id='div_pt2_30' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt2_30: pass
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='success'>
+    <td>test_face_camera_manage.face</td>
+    <td class="text-center">28</td>
+    <td class="text-center">28</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c3',28)" class="detail" id='c3'>详细</a></td>
+</tr>
+
+<tr id='pt3_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_01_____________________</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_1' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_1'>通过</button></td>
+</tr>
+
+<tr id='pt3_2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_02_______80000____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_2' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_2'>通过</button></td>
+</tr>
+
+<tr id='pt3_3' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_03___192_1和8_1_12____80000____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_3' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_3'>通过</button></td>
+</tr>
+
+<tr id='pt3_4' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_04___192_18_1g_12____80000____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_4' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_4'>通过</button></td>
+</tr>
+
+<tr id='pt3_5' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_05___19__18_1_12____80000____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_5' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_5'>通过</button></td>
+</tr>
+
+<tr id='pt3_6' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_06___192_1_12____80000____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_6' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_6'>通过</button></td>
+</tr>
+
+<tr id='pt3_7' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_07___192_258_1_12____80000____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_7' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_7'>通过</button></td>
+</tr>
+
+<tr id='pt3_8' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_08___192_168_1_12____0____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_8' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_8'>通过</button></td>
+</tr>
+
+<tr id='pt3_9' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_09___192_168_1_12________admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_9' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_9'>通过</button></td>
+</tr>
+
+<tr id='pt3_10' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_10___192_168_1_12____800050____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_10' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_10'>通过</button></td>
+</tr>
+
+<tr id='pt3_11' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_11___192_168_1_12____0及____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_11' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_11'>通过</button></td>
+</tr>
+
+<tr id='pt3_12' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_12___192_168_1_12____0jh____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_12' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_12'>通过</button></td>
+</tr>
+
+<tr id='pt3_13' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_13___192_168_1_12____0_____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_13' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_13'>通过</button></td>
+</tr>
+
+<tr id='pt3_14' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_14___192_168_1_12____80000________123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_14' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_14'>通过</button></td>
+</tr>
+
+<tr id='pt3_15' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_15___192_168_1_12____80000____admjr____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_15' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_15'>通过</button></td>
+</tr>
+
+<tr id='pt3_16' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_16___192_168_1_12____80000____admin________188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_16' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_16'>通过</button></td>
+</tr>
+
+<tr id='pt3_17' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_17___192_168_1_12____80000____admin____123_6yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_17' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_17'>通过</button></td>
+</tr>
+
+<tr id='pt3_18' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_18___192_228_1_12____80000____admin____kahf64____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_18' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_18'>通过</button></td>
+</tr>
+
+<tr id='pt3_19' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_19___192_168_1_12____80000____admin____123456yanfa______</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_19' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_19'>通过</button></td>
+</tr>
+
+<tr id='pt3_20' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_20___192_168_1_12____80000____admin____123456yanfa____1884567__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_20' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_20'>通过</button></td>
+</tr>
+
+<tr id='pt3_21' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_21___192_168_1_12____80000____admin____123456yanfa____8__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_21' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_21'>通过</button></td>
+</tr>
+
+<tr id='pt3_22' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_22___192_168_1_12____80000____admin____123456yanfa____188456__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_22' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_22'>通过</button></td>
+</tr>
+
+<tr id='pt3_23' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_23___192_168_1_12____80000____admin____123456yanfa____188h__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_23' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_23'>通过</button></td>
+</tr>
+
+<tr id='pt3_24' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_24___192_168_1_12____80000____admin____123456yanfa____18计8__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_24' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_24'>通过</button></td>
+</tr>
+
+<tr id='pt3_25' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_25___192_168_1_12____80000____admin____123456yanfa____188___</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_25' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_25'>通过</button></td>
+</tr>
+
+<tr id='pt3_26' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_26___192_168_1_12____80000____admin____123456yanfa____1188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_26' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_26'>通过</button></td>
+</tr>
+
+<tr id='pt3_27' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_27___192_168_1_12____80000____admin____123456yanfa____1188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_27' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_27'>通过</button></td>
+</tr>
+
+<tr id='pt3_28' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_add_camera2_28___192_168_1_12____80000____admin____123456yanfa____188__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt3_28' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt3_28'>通过</button></td>
+</tr>
+
+<tr class='success'>
+    <td>test_face_server_manage.face</td>
+    <td class="text-center">21</td>
+    <td class="text-center">21</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c4',21)" class="detail" id='c4'>详细</a></td>
+</tr>
+
+<tr id='pt4_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_01_______192_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_1' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_1'>通过</button></td>
+</tr>
+
+<tr id='pt4_2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_02___1885534____192_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_2' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_2'>通过</button></td>
+</tr>
+
+<tr id='pt4_3' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_03___5____192_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_3' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_3'>通过</button></td>
+</tr>
+
+<tr id='pt4_4' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_04___188553____192_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_4' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_4'>通过</button></td>
+</tr>
+
+<tr id='pt4_5' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_05___18h553____192_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_5' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_5'>通过</button></td>
+</tr>
+
+<tr id='pt4_6' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_06___188加3____192_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_6' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_6'>通过</button></td>
+</tr>
+
+<tr id='pt4_7' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_07___185_3____192_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_7' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_7'>通过</button></td>
+</tr>
+
+<tr id='pt4_8' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_08___1885________27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_8' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_8'>通过</button></td>
+</tr>
+
+<tr id='pt4_9' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_09___1885____192_168_就_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_9' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_9'>通过</button></td>
+</tr>
+
+<tr id='pt4_10' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_10___1885____192_168_3_h30____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_10' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_10'>通过</button></td>
+</tr>
+
+<tr id='pt4_11' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_11___1885____1_2_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_11' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_11'>通过</button></td>
+</tr>
+
+<tr id='pt4_12' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_12___1885____192_168_3____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_12' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_12'>通过</button></td>
+</tr>
+
+<tr id='pt4_13' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_13___1885____192_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_13' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_13'>通过</button></td>
+</tr>
+
+<tr id='pt4_14' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_14___1885____192_168_3_230______</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_14' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_14'>通过</button></td>
+</tr>
+
+<tr id='pt4_15' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_15___1885____192_168_3_230____0__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_15' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_15'>通过</button></td>
+</tr>
+
+<tr id='pt4_16' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_16___1885____192_168_3_230____65535__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_16' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_16'>通过</button></td>
+</tr>
+
+<tr id='pt4_17' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_17___1885____192_168_3_230____65536__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_17' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_17'>通过</button></td>
+</tr>
+
+<tr id='pt4_18' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_18___1885____192_168_3_230____9__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_18' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_18'>通过</button></td>
+</tr>
+
+<tr id='pt4_19' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_19___1885____192_168_3_230____65和__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_19' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_19'>通过</button></td>
+</tr>
+
+<tr id='pt4_20' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_20___1885____192_168_3_230____270___</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_20' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_20'>通过</button></td>
+</tr>
+
+<tr id='pt4_21' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_set_pat_21___1885____192_168_3_230____27020__</div></td>
+    <td colspan='5' align='center'><button id='btn_pt4_21' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt4_21'>通过</button></td>
+</tr>
+
+<tr class='warning'>
+    <td>test_jz_alarm_set.alarm_set</td>
+    <td class="text-center">2</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">2</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c5',2)" class="detail" id='c5'>详细</a></td>
+</tr>
+
+<tr id='et5_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_setalarm_on</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et5_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et5_1'>错误</button>
+    <div id='div_et5_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et5_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et5_1'>错误</button>
+    <div id='div_et5_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et5_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_jz_alarm_set.py", line 24, in test_01_setalarm_on
+    ele = self.driver.find_element_by_xpath("//*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[2]/form/div[1]/div/label/span").get_attribute("class")
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[2]/form/div[1]/div/label/span"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et5_2' class='none'>
+    <td class='errorCase'><div class='testcase'>test_02_setalarm_off</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et5_2' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et5_2'>错误</button>
+    <div id='div_et5_2' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et5_2' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et5_2'>错误</button>
+    <div id='div_et5_2' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et5_2: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_jz_alarm_set.py", line 34, in test_02_setalarm_off
+    ele = self.driver.find_element_by_xpath("//*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[2]/form/div[1]/div/label/span").get_attribute("class")
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/section/section/main/div/div[2]/div[3]/div/div[2]/form/div[1]/div/label/span"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='warning'>
+    <td>test_jz_band_manage.BCBband_mange</td>
+    <td class="text-center">5</td>
+    <td class="text-center">4</td>
+    <td class="text-center">0</td>
+    <td class="text-center">1</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c6',5)" class="detail" id='c6'>详细</a></td>
+</tr>
+
+<tr id='et6_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_set_FDDpar</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et6_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et6_1'>错误</button>
+    <div id='div_et6_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et6_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et6_1'>错误</button>
+    <div id='div_et6_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et6_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_jz_band_manage.py", line 33, in test_01_set_FDDpar
+    bandPar.choice_scan_all()
+  File "D:\测试组\consoleTest\pageobjects\band_manage_page.py", line 236, in choice_scan_all
+    self.clicks(self.scan_all)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 123, in clicks
+    el.click()
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt6_2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_03_sacn_band</div></td>
+    <td colspan='5' align='center'><button id='btn_pt6_2' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt6_2'>通过</button></td>
+</tr>
+
+<tr id='pt6_3' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_04_export_bandlog</div></td>
+    <td colspan='5' align='center'><button id='btn_pt6_3' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt6_3'>通过</button></td>
+</tr>
+
+<tr id='pt6_4' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_05_reboot_band</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt6_4' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt6_4'>通过</button>
+    <div id='div_pt6_4' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt6_4' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt6_4'>通过</button>
+    <div id='div_pt6_4' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt6_4: 软重启
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt6_5' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_06_reboot_shutdown_band</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_pt6_5' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt6_5'>通过</button>
+    <div id='div_pt6_5' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_pt6_5' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt6_5'>通过</button>
+    <div id='div_pt6_5' class="collapse in">
+    <pre style="text-align:left; ">
+    
+pt6_5: 断电重启
+3s后状态：离线
+20s后状态：离线
+60s后状态：在线
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='success'>
+    <td>test_jz_pa_manage.pa_mange</td>
+    <td class="text-center">3</td>
+    <td class="text-center">3</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c7',3)" class="detail" id='c7'>详细</a></td>
+</tr>
+
+<tr id='pt7_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_refresh_palist</div></td>
+    <td colspan='5' align='center'><button id='btn_pt7_1' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt7_1'>通过</button></td>
+</tr>
+
+<tr id='pt7_2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_02_pa_on_all</div></td>
+    <td colspan='5' align='center'><button id='btn_pt7_2' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt7_2'>通过</button></td>
+</tr>
+
+<tr id='pt7_3' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_03_pa_off_all</div></td>
+    <td colspan='5' align='center'><button id='btn_pt7_3' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt7_3'>通过</button></td>
+</tr>
+
+<tr class='success'>
+    <td>test_ss_filt_imsi.real_time_imsi</td>
+    <td class="text-center">1</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c8',1)" class="detail" id='c8'>详细</a></td>
+</tr>
+
+<tr id='pt8_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_01_clear_imsi</div></td>
+    <td colspan='5' align='center'><button id='btn_pt8_1' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt8_1'>通过</button></td>
+</tr>
+
+<tr class='warning'>
+    <td>test_ss_real_time_imsi.real_time_imsi</td>
+    <td class="text-center">10</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">9</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c9',10)" class="detail" id='c9'>详细</a></td>
+</tr>
+
+<tr id='et9_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_imsi</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et9_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et9_1'>错误</button>
+    <div id='div_et9_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et9_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et9_1'>错误</button>
+    <div id='div_et9_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et9_1: TypeError: test_01_add_imsi() missing 1 required positional argument: 'text'
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et9_2' class='none'>
+    <td class='errorCase'><div class='testcase'>test_02delet_imsi_1_____</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et9_2' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et9_2'>错误</button>
+    <div id='div_et9_2' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et9_2' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et9_2'>错误</button>
+    <div id='div_et9_2' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et9_2: Traceback (most recent call last):
+  File "D:\Anaconda3\lib\site-packages\ddt.py", line 184, in wrapper
+    return func(self, *args, **kwargs)
+TypeError: test_02delet_imsi() takes 1 positional argument but 2 were given
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et9_3' class='none'>
+    <td class='errorCase'><div class='testcase'>test_02delet_imsi_2___46000787214700__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et9_3' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et9_3'>错误</button>
+    <div id='div_et9_3' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et9_3' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et9_3'>错误</button>
+    <div id='div_et9_3' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et9_3: Traceback (most recent call last):
+  File "D:\Anaconda3\lib\site-packages\ddt.py", line 184, in wrapper
+    return func(self, *args, **kwargs)
+TypeError: test_02delet_imsi() takes 1 positional argument but 2 were given
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et9_4' class='none'>
+    <td class='errorCase'><div class='testcase'>test_02delet_imsi_3___4600078721470094__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et9_4' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et9_4'>错误</button>
+    <div id='div_et9_4' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et9_4' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et9_4'>错误</button>
+    <div id='div_et9_4' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et9_4: Traceback (most recent call last):
+  File "D:\Anaconda3\lib\site-packages\ddt.py", line 184, in wrapper
+    return func(self, *args, **kwargs)
+TypeError: test_02delet_imsi() takes 1 positional argument but 2 were given
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et9_5' class='none'>
+    <td class='errorCase'><div class='testcase'>test_02delet_imsi_4___jhvbh对景挂画lsjdh__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et9_5' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et9_5'>错误</button>
+    <div id='div_et9_5' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et9_5' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et9_5'>错误</button>
+    <div id='div_et9_5' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et9_5: Traceback (most recent call last):
+  File "D:\Anaconda3\lib\site-packages\ddt.py", line 184, in wrapper
+    return func(self, *args, **kwargs)
+TypeError: test_02delet_imsi() takes 1 positional argument but 2 were given
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et9_6' class='none'>
+    <td class='errorCase'><div class='testcase'>test_02delet_imsi_5___4600078__147009__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et9_6' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et9_6'>错误</button>
+    <div id='div_et9_6' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et9_6' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et9_6'>错误</button>
+    <div id='div_et9_6' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et9_6: Traceback (most recent call last):
+  File "D:\Anaconda3\lib\site-packages\ddt.py", line 184, in wrapper
+    return func(self, *args, **kwargs)
+TypeError: test_02delet_imsi() takes 1 positional argument but 2 were given
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et9_7' class='none'>
+    <td class='errorCase'><div class='testcase'>test_02delet_imsi_6___46000lje2147009__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et9_7' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et9_7'>错误</button>
+    <div id='div_et9_7' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et9_7' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et9_7'>错误</button>
+    <div id='div_et9_7' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et9_7: Traceback (most recent call last):
+  File "D:\Anaconda3\lib\site-packages\ddt.py", line 184, in wrapper
+    return func(self, *args, **kwargs)
+TypeError: test_02delet_imsi() takes 1 positional argument but 2 were given
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et9_8' class='none'>
+    <td class='errorCase'><div class='testcase'>test_02delet_imsi_7___111007872147468__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et9_8' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et9_8'>错误</button>
+    <div id='div_et9_8' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et9_8' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et9_8'>错误</button>
+    <div id='div_et9_8' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et9_8: Traceback (most recent call last):
+  File "D:\Anaconda3\lib\site-packages\ddt.py", line 184, in wrapper
+    return func(self, *args, **kwargs)
+TypeError: test_02delet_imsi() takes 1 positional argument but 2 were given
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et9_9' class='none'>
+    <td class='errorCase'><div class='testcase'>test_02delet_imsi_8___460007872147009__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et9_9' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et9_9'>错误</button>
+    <div id='div_et9_9' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et9_9' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et9_9'>错误</button>
+    <div id='div_et9_9' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et9_9: Traceback (most recent call last):
+  File "D:\Anaconda3\lib\site-packages\ddt.py", line 184, in wrapper
+    return func(self, *args, **kwargs)
+TypeError: test_02delet_imsi() takes 1 positional argument but 2 were given
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt9_10' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_03_down_file</div></td>
+    <td colspan='5' align='center'><button id='btn_pt9_10' type="button"  class="btn-xs" disabled="disabled" data-toggle="collapse" data-target='#div_pt9_10'>通过</button></td>
+</tr>
+
+<tr class='warning'>
+    <td>test_sys_log.log</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">1</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c10',1)" class="detail" id='c10'>详细</a></td>
+</tr>
+
+<tr id='et10_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_load_all_console_log</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et10_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et10_1'>错误</button>
+    <div id='div_et10_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et10_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et10_1'>错误</button>
+    <div id='div_et10_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et10_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_log.py", line 17, in setUp
+    consolelogin.open_download_log()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 216, in open_download_log
+    self.clicks(self.system_ctrl)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 121, in clicks
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='系统控制']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='warning'>
+    <td>test_sys_passwd_manage.passwd</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">1</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c11',1)" class="detail" id='c11'>详细</a></td>
+</tr>
+
+<tr id='et11_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_update_passwd</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et11_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et11_1'>错误</button>
+    <div id='div_et11_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et11_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et11_1'>错误</button>
+    <div id='div_et11_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et11_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_passwd_manage.py", line 30, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='warning'>
+    <td>test_sys_route_track.log</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">1</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c12',1)" class="detail" id='c12'>详细</a></td>
+</tr>
+
+<tr id='et12_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_route_track</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et12_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et12_1'>错误</button>
+    <div id='div_et12_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et12_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et12_1'>错误</button>
+    <div id='div_et12_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et12_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_route_track.py", line 17, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='warning'>
+    <td>test_sys_user_manage.user</td>
+    <td class="text-center">9</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">9</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c13',9)" class="detail" id='c13'>详细</a></td>
+</tr>
+
+<tr id='et13_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_user_1___cdd11据____cdd____123456____123456____备注备注备注__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et13_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et13_1'>错误</button>
+    <div id='div_et13_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et13_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et13_1'>错误</button>
+    <div id='div_et13_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et13_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_user_manage.py", line 29, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et13_2' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_user_2_______cdd____123456____123456____备注备注备注__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et13_2' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et13_2'>错误</button>
+    <div id='div_et13_2' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et13_2' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et13_2'>错误</button>
+    <div id='div_et13_2' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et13_2: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_user_manage.py", line 29, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et13_3' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_user_3___cdd11____cdd________123456____备注备注备注__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et13_3' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et13_3'>错误</button>
+    <div id='div_et13_3' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et13_3' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et13_3'>错误</button>
+    <div id='div_et13_3' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et13_3: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_user_manage.py", line 29, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et13_4' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_user_4___cdd11____cdd____123456________备注备注备注__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et13_4' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et13_4'>错误</button>
+    <div id='div_et13_4' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et13_4' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et13_4'>错误</button>
+    <div id='div_et13_4' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et13_4: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_user_manage.py", line 29, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et13_5' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_user_5___cdd11____好v56____123456____123456____备注备注备注__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et13_5' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et13_5'>错误</button>
+    <div id='div_et13_5' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et13_5' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et13_5'>错误</button>
+    <div id='div_et13_5' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et13_5: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_user_manage.py", line 29, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et13_6' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_user_6___cdd11________123456____123456____备注备注备注__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et13_6' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et13_6'>错误</button>
+    <div id='div_et13_6' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et13_6' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et13_6'>错误</button>
+    <div id='div_et13_6' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et13_6: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_user_manage.py", line 29, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et13_7' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_user_7___cdd11____cdd____123456____123456______</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et13_7' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et13_7'>错误</button>
+    <div id='div_et13_7' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et13_7' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et13_7'>错误</button>
+    <div id='div_et13_7' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et13_7: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_user_manage.py", line 29, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et13_8' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_user_8___cdd1将1____cdddfuhbbsr54638158465_____123456_____123456_____备注备注备注__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et13_8' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et13_8'>错误</button>
+    <div id='div_et13_8' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et13_8' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et13_8'>错误</button>
+    <div id='div_et13_8' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et13_8: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_user_manage.py", line 29, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et13_9' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_add_user_9___cdd11____cdd____123456____123456____备注备注备注__</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et13_9' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et13_9'>错误</button>
+    <div id='div_et13_9' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et13_9' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et13_9'>错误</button>
+    <div id='div_et13_9' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et13_9: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_sys_user_manage.py", line 29, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='warning'>
+    <td>unittest.loader._FailedTest</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">1</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c14',1)" class="detail" id='c14'>详细</a></td>
+</tr>
+
+<tr id='et14_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_try</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et14_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et14_1'>错误</button>
+    <div id='div_et14_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et14_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et14_1'>错误</button>
+    <div id='div_et14_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et14_1: ImportError: Failed to import test module: test_try
+Traceback (most recent call last):
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
+    stdin=PIPE)
+  File "D:\Anaconda3\lib\subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "D:\Anaconda3\lib\subprocess.py", line 997, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\lib\unittest\loader.py", line 428, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "D:\Anaconda3\lib\unittest\loader.py", line 369, in _get_module_from_name
+    __import__(name)
+  File "D:\测试组\consoleTest\testsuites\test_try.py", line 8, in &lt;module&gt;
+    driver = webdriver.Chrome()
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 73, in __init__
+    self.service.start()
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
+    os.path.basename(self.path), self.start_error_message)
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='warning'>
+    <td>test_wifi_mac_data.mac</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">1</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c15',1)" class="detail" id='c15'>详细</a></td>
+</tr>
+
+<tr id='et15_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_select_week</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et15_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et15_1'>错误</button>
+    <div id='div_et15_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et15_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et15_1'>错误</button>
+    <div id='div_et15_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et15_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_wifi_mac_data.py", line 15, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='warning'>
+    <td>test_wifi_server.wifi_server</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">1</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c16',1)" class="detail" id='c16'>详细</a></td>
+</tr>
+
+<tr id='et16_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_onlymainserver</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et16_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et16_1'>错误</button>
+    <div id='div_et16_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et16_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et16_1'>错误</button>
+    <div id='div_et16_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et16_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_wifi_server.py", line 14, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='warning'>
+    <td>test_zm_dateSelect.imsiData</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">1</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c17',1)" class="detail" id='c17'>详细</a></td>
+</tr>
+
+<tr id='et17_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_01_selectAweek</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et17_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et17_1'>错误</button>
+    <div id='div_et17_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et17_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et17_1'>错误</button>
+    <div id='div_et17_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et17_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_zm_dateSelect.py", line 16, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='warning'>
+    <td>test_zm_serverset.imsiSerSet</td>
+    <td class="text-center">2</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center">2</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c18',2)" class="detail" id='c18'>详细</a></td>
+</tr>
+
+<tr id='et18_1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_zmser01_onlyMain</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et18_1' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et18_1'>错误</button>
+    <div id='div_et18_1' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et18_1' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et18_1'>错误</button>
+    <div id='div_et18_1' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et18_1: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_zm_serverset.py", line 18, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et18_2' class='none'>
+    <td class='errorCase'><div class='testcase'>test_zmser02_MainAndSec</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et18_2' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et18_2'>错误</button>
+    <div id='div_et18_2' class="collapse">  -->
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et18_2' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et18_2'>错误</button>
+    <div id='div_et18_2' class="collapse in">
+    <pre style="text-align:left; ">
+    
+et18_2: Traceback (most recent call last):
+  File "D:\测试组\consoleTest\testsuites\test_zm_serverset.py", line 18, in setUp
+    consolelogin.console_login_succ()
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 65, in console_login_succ
+    consolelogin.type_user("admin")
+  File "D:\测试组\consoleTest\pageobjects\console_homepage.py", line 49, in type_user
+    self.inputText(self.inputuser_box, text)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 100, in inputText
+    el = self.find_element(selector)
+  File "D:\测试组\consoleTest\framework\base_page.py", line 86, in find_element
+    element = self.driver.find_element_by_xpath(selector_value)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='请输入用户名']"}
+  (Session info: chrome=81.0.4044.129)
+
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='total_row' class="text-center info">
+    <td>总计</td>
+    <td>119</td>
+    <td>88</td>
+    <td>0</td>
+    <td>31</td>
+    <td>通过率：73.95%</td>
+</tr>
+</table>
+
+<div id='ending'> </div>
+    <div style=" position:fixed;right:50px; bottom:30px; width:20px; height:20px;cursor:pointer">
+    <a href="#"><span class="glyphicon glyphicon-eject" style = "font-size:30px;" aria-hidden="true">
+    </span></a></div>
+    
+<script language="javascript" type="text/javascript">
+output_list = Array();
+// 修改按钮颜色显示错误问题 --Findyou v0.8.2.3
+$("button[id^='btn_pt']").addClass("btn btn-success");
+$("button[id^='btn_ft']").addClass("btn btn-danger");
+$("button[id^='btn_et']").addClass("btn btn-warning");
+/*level
+增加分类并调整，增加error按钮事件 --Findyou v0.8.2.3
+0:Pass    //pt none, ft hiddenRow, et hiddenRow
+1:Failed  //pt hiddenRow, ft none, et hiddenRow
+2:Error    //pt hiddenRow, ft hiddenRow, et none
+3:All     //pt none, ft none, et none
+4:Summary //all hiddenRow
+*/
+//add Error button event --Findyou v0.8.2.3
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+        if (id.substr(0,2) == 'ft') {
+            if (level == 0 || level == 2 || level == 4 ) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+        if (id.substr(0,2) == 'pt') {
+            if (level == 1 || level == 2 || level == 4) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+        if (id.substr(0,2) == 'et') {
+            if (level == 0 || level == 1 || level == 4) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+    }
+    //加入【详细】切换文字变化 --Findyou
+    detail_class=document.getElementsByClassName('detail');
+	//console.log(detail_class.length)
+	if (level == 3) {
+		for (var i = 0; i < detail_class.length; i++){
+			detail_class[i].innerHTML="收起"
+		}
+	}
+	else{
+			for (var i = 0; i < detail_class.length; i++){
+			detail_class[i].innerHTML="详细"
+		}
+	}
+}
+//add Error button event --Findyou v0.8.2.3
+function showClassDetail(cid, count) {
+    var id_list = Array(count);
+    var toHide = 1;
+    for (var i = 0; i < count; i++) {
+        tid0 = 't' + cid.substr(1) + '_' + (i+1);
+        tid = 'f' + tid0;
+        tr = document.getElementById(tid);
+        if (!tr) {
+            tid = 'p' + tid0;
+            tr = document.getElementById(tid);
+        }
+        if (!tr) {
+            tid = 'e' + tid0;
+            tr = document.getElementById(tid);
+        }
+        id_list[i] = tid;
+        if (tr.className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        tid = id_list[i];
+        //修改点击无法收起的BUG，加入【详细】切换文字变化 --Findyou
+        if (toHide) {
+            document.getElementById(tid).className = 'hiddenRow';
+            document.getElementById(cid).innerText = "详细"
+        }
+        else {
+            document.getElementById(tid).className = '';
+            document.getElementById(cid).innerText = "收起"
+        }
+    }
+}
+function html_escape(s) {
+    s = s.replace(/&/g,'&');
+    s = s.replace(/</g,'<');
+    s = s.replace(/>/g,'>');
+    return s;
+}
+//添加圆饼图  zl    2018.7.23
+function drawCircle(canvasId, data_arr, color_arr, text_arr) {
+     var c = document.getElementById(canvasId);
+     var ctx = c.getContext("2d");
+     var radius = c.height / 2 - 20; //半径  
+     var ox = radius + 20,
+         oy = radius + 20; //圆心  
+     var width = 10,
+         height = 10; //图例宽和高  
+     var posX = ox * 2 + 20,
+         posY = 30; //  
+     var textX = posX + width + 5,
+         textY = posY + 10;
+     var startAngle = 0; //起始弧度  
+     var endAngle = 0; //结束弧度  
+     for (var i = 0; i < data_arr.length; i++) {
+         //绘制饼图  
+         endAngle = endAngle + data_arr[i] * Math.PI * 2; //结束弧度  
+         ctx.fillStyle = color_arr[i];
+         ctx.beginPath();
+         ctx.moveTo(ox, oy); //移动到到圆心  
+         ctx.arc(ox, oy, radius, startAngle, endAngle, false);
+         ctx.closePath();
+         ctx.fill();
+         startAngle = endAngle; //设置起始弧度  
+         //绘制比例图及文字  
+         ctx.fillStyle = color_arr[i];
+         ctx.fillRect(posX, posY + 30 * i, width, height);
+         ctx.moveTo(posX, posY + 30 * i);
+         ctx.font = 'bold 15px 微软雅黑'; //斜体 30像素 微软雅黑字体  
+         ctx.fillStyle = color_arr[i]; //"#000000";  
+         var percent = text_arr[i] + "：" + (100 * data_arr[i]).toFixed(2) + " %";
+         ctx.fillText(percent, textX, textY + 30 * i);
+     }
+ }
+
+function init() {
+     var text_arr = ["通过", "失败", "错误"];
+     var color_arr = ["#5CB85C","#D2322D", "#F0AD4E"];
+     var data_arr = [0.7394957983193278,0.0,0.2605042016806723];
+     drawCircle("canvas_circle", data_arr, color_arr, text_arr);
+ }
+
+ window.onload = init;
+
+</script>
+</body>
+</html>

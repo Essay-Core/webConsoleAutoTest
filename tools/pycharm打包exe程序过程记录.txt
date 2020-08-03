@@ -1,0 +1,15 @@
+
+RecursionError: maximum recursion depth exceeded:
+import sys
+sys.setrecursionlimit(100000)
+
+pyinstaller -F my_test_v3.py -p D:\Anaconda3\Lib\site-packages -p D:\code_2018_1031\consoleTest
+pyinstaller -F my_test_v3.spec -p D:\Anaconda3\Lib\site-packages -p D:\code_2018_1031\consoleTest
+
+
+pyinstaller -F main.py -p D:\Anaconda3\Lib\site-packages -p D:\code_2018_1031\consoleTest
+pyinstaller -D main.spec -p D:\Anaconda3\Lib\site-packages -p D:\code_2018_1031\consoleTest
+
+
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xce in position 110: invalid continuation byte
+	chcp 65001

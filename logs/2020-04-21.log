@@ -1,0 +1,63 @@
+2020-04-21 13:39:17,528 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 13:39:20,465 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 13:39:22,978 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 13:39:23,073 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-21 13:39:23,198 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-21 13:39:23,232 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-21 13:39:23,312 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-21 13:39:23,351 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-21 13:39:23,402 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-21 13:59:07,903 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 13:59:10,168 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 13:59:13,133 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 13:59:13,184 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-21 13:59:13,301 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-21 13:59:13,333 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-21 13:59:13,405 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-21 13:59:13,435 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-21 13:59:13,489 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-21 14:02:59,185 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 14:03:01,325 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 14:03:03,455 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 14:03:03,511 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-21 14:03:03,595 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-21 14:03:03,633 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-21 14:03:03,723 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-04-21 14:03:03,774 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-21 14:03:03,825 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-21 14:03:04,857 - BasePage - INFO - 通过 xpath via value: //span[text()='系统控制'] 定位元素成功：'系统控制' 
+2020-04-21 14:03:04,981 - BasePage - INFO - 元素'系统控制'\ 被点击.
+2020-04-21 14:03:06,046 - BasePage - INFO - 通过 xpath via value: //span[text()='路由追踪'] 定位元素成功：'路由追踪' 
+2020-04-21 14:03:06,130 - BasePage - INFO - 元素'路由追踪'\ 被点击.
+2020-04-21 14:03:07,174 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入IP'] 定位元素成功：'' 
+2020-04-21 14:03:07,276 - BasePage - INFO - 输入文本内容：' 192.168.43.55 '
+2020-04-21 14:03:07,311 - BasePage - INFO - 通过 xpath via value: //span[text()='ping'] 定位元素成功：'ping' 
+2020-04-21 14:03:07,397 - BasePage - INFO - 元素'ping'\ 被点击.
+2020-04-21 14:03:17,767 - BasePage - INFO - 开始截图并保存
+2020-04-21 18:05:32,797 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 18:05:35,063 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 18:05:57,375 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 18:06:07,636 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 18:06:11,058 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 18:06:33,524 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 18:06:43,546 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 18:06:45,724 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 18:07:09,107 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 18:07:19,273 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 18:07:21,485 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 18:07:43,860 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 18:07:53,903 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 18:07:56,041 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 18:08:18,777 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 18:08:28,848 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 18:08:31,080 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 18:08:53,475 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 18:09:03,511 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 18:09:05,708 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 18:09:28,112 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 18:09:38,151 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 18:09:40,356 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 18:10:02,796 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-21 18:10:12,856 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-21 18:10:15,735 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-21 18:10:38,114 - BrowserEngine - INFO - 浏览器窗口最大化

@@ -1,0 +1,1255 @@
+2020-05-21 09:20:32,357 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:20:35,907 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:20:38,976 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:20:38,996 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:20:39,084 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:20:39,105 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:20:39,189 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:20:39,209 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:20:39,245 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:20:40,502 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:20:40,560 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:20:41,593 - BasePage - INFO - 通过 xpath via value: //span[text()='设备时间'] 定位元素成功：'设备时间' 
+2020-05-21 09:20:41,693 - BasePage - INFO - 元素'设备时间'\ 被点击.
+2020-05-21 09:20:42,724 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button resetBtn el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:20:42,782 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:20:46,388 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:20:49,867 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:20:52,776 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:20:52,796 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:20:52,891 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:20:52,913 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:20:53,001 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:20:53,021 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:20:53,064 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:20:54,091 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:20:54,152 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:20:55,172 - BasePage - INFO - 通过 xpath via value: //span[text()='设备时间'] 定位元素成功：'设备时间' 
+2020-05-21 09:20:55,271 - BasePage - INFO - 元素'设备时间'\ 被点击.
+2020-05-21 09:20:56,294 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div[1]/div[1]/div/button 定位元素成功：'设置' 
+2020-05-21 09:20:56,340 - BasePage - INFO - 元素'设置'\ 被点击.
+2020-05-21 09:30:33,905 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:30:37,354 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:30:40,320 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:30:40,343 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:30:40,429 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:30:40,449 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:30:40,542 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:30:40,563 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:30:40,606 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:30:41,639 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:30:41,710 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:30:42,734 - BasePage - INFO - 通过 xpath via value: //span[text()='设备位置信息'] 定位元素成功：'设备位置信息' 
+2020-05-21 09:30:42,802 - BasePage - INFO - 元素'设备位置信息'\ 被点击.
+2020-05-21 09:30:43,823 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:30:43,903 - BasePage - INFO - 输入文本内容：' 25. '
+2020-05-21 09:30:43,924 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:30:44,004 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:30:45,027 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:30:45,107 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:30:46,127 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:30:46,174 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:30:47,211 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:30:47,273 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 09:30:47,287 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:30:47,348 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:30:48,388 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:30:48,429 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:30:49,444 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:30:49,471 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:30:50,486 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:30:50,546 - BasePage - INFO - 输入文本内容：' 1.1 '
+2020-05-21 09:30:50,560 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:30:50,624 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:30:51,646 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:30:51,692 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:30:52,713 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'' 
+2020-05-21 09:31:02,815 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:02,892 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 09:31:02,927 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:03,001 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:31:04,018 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:04,062 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:31:05,078 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:31:05,121 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:31:06,144 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:06,203 - BasePage - INFO - 输入文本内容：' 25@ '
+2020-05-21 09:31:06,215 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:06,275 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:31:07,318 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:07,363 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:31:08,382 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:31:08,420 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:31:09,434 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:09,496 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:31:09,508 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:09,564 - BasePage - INFO - 输入文本内容：' 25. '
+2020-05-21 09:31:10,608 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:10,663 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:31:11,677 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:31:11,704 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:31:12,718 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:12,788 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:31:12,803 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:12,857 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 09:31:13,870 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:13,911 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:31:14,954 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:31:15,004 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:31:16,055 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:16,120 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:31:16,135 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:16,191 - BasePage - INFO - 输入文本内容：' 1.1 '
+2020-05-21 09:31:17,235 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:17,311 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:31:18,331 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'' 
+2020-05-21 09:31:28,386 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:28,449 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:31:28,461 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:28,508 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 09:31:29,550 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:29,597 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:31:30,642 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:31:30,687 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:31:31,701 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:31,765 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:31:31,779 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:31,836 - BasePage - INFO - 输入文本内容：' 25@ '
+2020-05-21 09:31:32,854 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:32,895 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:31:33,923 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:31:33,983 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:31:34,997 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:35,058 - BasePage - INFO - 输入文本内容：' 25.0 '
+2020-05-21 09:31:35,072 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:35,114 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 09:31:36,147 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:36,195 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:31:37,208 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:31:37,236 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:31:40,434 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:31:43,882 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:31:46,806 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:31:46,836 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:31:46,918 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:31:46,938 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:31:47,028 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:31:47,048 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:31:47,090 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:31:48,116 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:31:48,188 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:31:49,211 - BasePage - INFO - 通过 xpath via value: //span[text()='设备位置信息'] 定位元素成功：'设备位置信息' 
+2020-05-21 09:31:49,288 - BasePage - INFO - 元素'设备位置信息'\ 被点击.
+2020-05-21 09:31:50,308 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:50,396 - BasePage - INFO - 输入文本内容：' 25.2 '
+2020-05-21 09:31:50,416 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:50,501 - BasePage - INFO - 输入文本内容：' 25.2 '
+2020-05-21 09:31:51,523 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:51,573 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:31:52,589 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="经度"] 定位元素成功：'' 
+2020-05-21 09:31:52,667 - BasePage - INFO - 输入文本内容：' 25.7 '
+2020-05-21 09:31:52,680 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="纬度"] 定位元素成功：'' 
+2020-05-21 09:31:52,746 - BasePage - INFO - 输入文本内容：' 33.2 '
+2020-05-21 09:31:53,759 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--text"] 定位元素成功：'保存' 
+2020-05-21 09:31:53,789 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:45:41,369 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:45:44,850 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:45:47,823 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:45:47,873 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:45:47,958 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:45:47,978 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:45:48,071 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:45:48,092 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:45:48,144 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:45:49,174 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:45:49,246 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:45:50,277 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:45:50,412 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:45:57,060 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:46:00,484 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:46:03,385 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:46:03,405 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:46:03,491 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:46:03,511 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:46:03,600 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:46:03,620 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:46:03,661 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:46:04,687 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:46:04,746 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:46:05,767 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:46:05,910 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:46:07,931 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 09:46:07,996 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 09:46:09,014 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:46:09,085 - BasePage - INFO - 输入文本内容：' 1 '
+2020-05-21 09:46:09,106 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:46:09,181 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 09:46:10,224 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:46:10,273 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:46:12,297 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:46:12,343 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:46:13,358 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:46:13,406 - BasePage - INFO - 输入文本内容：' 1 '
+2020-05-21 09:46:13,418 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:46:13,485 - BasePage - INFO - 输入文本内容：' 12 '
+2020-05-21 09:46:14,499 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:46:14,534 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:46:16,559 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:46:16,591 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:46:17,606 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:46:17,659 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 09:46:17,674 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:46:17,734 - BasePage - INFO - 输入文本内容：' 333 '
+2020-05-21 09:46:18,748 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:46:18,784 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:46:20,797 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:46:20,826 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:46:24,032 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:46:27,525 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:46:30,421 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:46:30,441 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:46:30,536 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:46:30,555 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:46:30,643 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:46:30,663 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:46:30,710 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:46:31,735 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:46:31,804 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:46:32,825 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:46:32,967 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:46:34,990 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 09:46:35,046 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 09:46:36,066 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:46:36,143 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 09:46:36,166 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:46:36,233 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 09:46:37,253 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:46:37,296 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:46:39,312 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 09:46:39,353 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 09:46:40,380 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:46:40,462 - BasePage - INFO - 输入文本内容：' 222 '
+2020-05-21 09:46:40,479 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:46:40,558 - BasePage - INFO - 输入文本内容：' 222 '
+2020-05-21 09:46:41,577 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:46:41,630 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:46:43,645 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 09:46:43,689 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 09:46:44,708 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:46:44,786 - BasePage - INFO - 输入文本内容：' 333 '
+2020-05-21 09:46:44,803 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:46:44,873 - BasePage - INFO - 输入文本内容：' 333 '
+2020-05-21 09:46:45,890 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:46:45,929 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:46:49,125 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:46:52,553 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:47:30,327 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:47:33,924 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:47:36,827 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:47:36,852 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:47:36,936 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:47:36,957 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:47:37,045 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:47:37,065 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:47:37,112 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:47:38,138 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:47:38,196 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:47:39,217 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:47:39,349 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:47:45,558 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:47:48,967 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:47:51,907 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:47:51,934 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:47:52,023 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:47:52,043 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:47:52,129 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:47:52,149 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:47:52,192 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:47:53,244 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:47:53,309 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:47:54,330 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:47:54,439 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:47:56,462 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 09:47:56,529 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 09:47:57,548 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:47:57,614 - BasePage - INFO - 输入文本内容：' 1 '
+2020-05-21 09:47:57,635 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:47:57,708 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 09:47:58,729 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:47:58,791 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:48:00,811 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:48:00,859 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:48:01,874 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:48:01,930 - BasePage - INFO - 输入文本内容：' 1 '
+2020-05-21 09:48:01,945 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:48:02,003 - BasePage - INFO - 输入文本内容：' 12 '
+2020-05-21 09:48:03,027 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:48:03,066 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:48:05,081 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:48:05,108 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:48:06,123 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:48:06,182 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 09:48:06,195 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:48:06,254 - BasePage - INFO - 输入文本内容：' 333 '
+2020-05-21 09:48:07,267 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:48:07,317 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:48:09,330 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:48:09,356 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:48:12,575 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:48:15,972 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:48:18,928 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:48:18,952 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:48:19,040 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:48:19,061 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:48:19,160 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:48:19,181 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:48:19,226 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:48:20,250 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:48:20,327 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:48:21,347 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:48:21,486 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:48:23,508 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 09:48:23,579 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 09:48:24,622 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:48:24,699 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 09:48:24,719 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:48:24,789 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 09:48:25,809 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:48:25,863 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:48:27,906 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 09:48:27,955 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 09:48:28,973 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:48:29,052 - BasePage - INFO - 输入文本内容：' 222 '
+2020-05-21 09:48:29,073 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:48:29,149 - BasePage - INFO - 输入文本内容：' 222 '
+2020-05-21 09:48:30,168 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:48:30,223 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:48:32,240 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 09:48:32,288 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 09:48:33,307 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 09:48:33,383 - BasePage - INFO - 输入文本内容：' 333 '
+2020-05-21 09:48:33,400 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 09:48:33,473 - BasePage - INFO - 输入文本内容：' 333 '
+2020-05-21 09:48:34,490 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 09:48:34,548 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:48:37,737 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:48:41,054 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:48:43,955 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:48:43,978 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:48:44,060 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:48:44,081 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:48:44,171 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:48:44,193 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:48:44,242 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:48:45,270 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:48:45,344 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:48:46,366 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:48:46,498 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:48:47,520 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 09:48:47,584 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 09:48:49,607 - BasePage - INFO - 通过 xpath via value: /html/body/div[4]/div/div[2]/form/div[4]/div/div/label[1]/span[1]/span 定位元素成功：'' 
+2020-05-21 09:48:49,665 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:48:49,688 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 09:48:49,773 - BasePage - INFO - 输入文本内容：' 1a1 '
+2020-05-21 09:48:49,794 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 09:48:49,874 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 09:48:49,896 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 09:48:49,957 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:48:51,978 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:48:52,023 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:48:53,037 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 09:48:53,117 - BasePage - INFO - 输入文本内容：' 222 '
+2020-05-21 09:48:53,133 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 09:48:53,217 - BasePage - INFO - 输入文本内容：' 2c2a '
+2020-05-21 09:48:53,233 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 09:48:53,266 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:48:55,288 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:48:55,324 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:48:56,349 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 09:48:56,439 - BasePage - INFO - 输入文本内容：' 333 '
+2020-05-21 09:48:56,462 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 09:48:56,522 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 09:48:56,544 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 09:48:56,600 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:48:58,616 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 09:48:58,657 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 09:49:01,863 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:49:05,273 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:49:08,270 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:49:08,296 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:49:08,377 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:49:08,397 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:49:08,483 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:49:08,504 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:49:08,541 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:49:09,572 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:49:09,643 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:49:10,665 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:49:10,801 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:49:11,824 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 09:49:11,901 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 09:49:13,922 - BasePage - INFO - 通过 xpath via value: /html/body/div[4]/div/div[2]/form/div[4]/div/div/label[1]/span[1]/span 定位元素成功：'' 
+2020-05-21 09:49:13,980 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:49:14,003 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 09:49:14,087 - BasePage - INFO - 输入文本内容：' 01 '
+2020-05-21 09:49:14,107 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 09:49:14,175 - BasePage - INFO - 输入文本内容：' 11 '
+2020-05-21 09:49:14,199 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 09:49:14,253 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:49:15,269 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 09:49:15,323 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 09:49:17,700 - BasePage - INFO - 通过 xpath via value: /html/body/div[4]/div/div[2]/form/div[4]/div/div/label[1]/span[1]/span 定位元素成功：'' 
+2020-05-21 09:49:17,752 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 09:49:17,776 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 09:49:17,852 - BasePage - INFO - 输入文本内容：' 11 '
+2020-05-21 09:49:17,870 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 09:49:17,936 - BasePage - INFO - 输入文本内容：' 21 '
+2020-05-21 09:49:17,955 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 09:49:17,998 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 09:54:43,818 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:54:47,219 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:54:50,122 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:54:50,144 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:54:50,226 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:54:50,246 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:54:50,336 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:54:50,357 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:54:50,406 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:54:51,435 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:54:51,517 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:54:52,539 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:54:52,679 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:55:23,686 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:55:27,104 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:55:30,034 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:55:30,060 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:55:30,149 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:55:30,171 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:55:30,269 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:55:30,288 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:55:30,336 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:55:31,362 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:55:31,422 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:55:32,443 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:55:32,571 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:57:43,172 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:57:46,590 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:57:49,492 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:57:49,516 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:57:49,599 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:57:49,620 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:57:49,715 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:57:49,735 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:57:49,786 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:57:50,813 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:57:50,896 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:57:51,917 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:57:52,060 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 09:58:12,275 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 09:58:15,610 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 09:58:18,505 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 09:58:18,528 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 09:58:18,613 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 09:58:18,633 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 09:58:18,722 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 09:58:18,742 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 09:58:18,783 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 09:58:19,814 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 09:58:19,889 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 09:58:20,910 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 09:58:21,041 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:02:42,679 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:02:46,010 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:02:48,911 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:02:48,935 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:02:49,022 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:02:49,043 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:02:49,139 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:02:49,159 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:02:49,197 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:02:50,224 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:02:50,295 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:02:51,316 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:02:51,454 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:02:52,476 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:02:52,540 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 10:02:54,561 - BasePage - INFO - 通过 xpath via value: /html/body/div[4]/div/div[2]/form/div[4]/div/div/label[1]/span[1]/span 定位元素成功：'' 
+2020-05-21 10:02:54,602 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:02:54,626 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:02:54,688 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 10:02:54,711 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:02:54,792 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:02:54,814 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:02:54,879 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:02:56,902 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:02:56,947 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:02:57,967 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:02:58,018 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 10:02:58,033 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:02:58,106 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:02:58,124 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:02:58,172 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:00,213 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:00,262 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:03:01,308 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:03:01,414 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 10:03:01,427 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:03:01,494 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:03:01,509 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:03:01,556 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:03,597 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:03,629 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:03:04,665 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:03:04,741 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 10:03:04,755 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:03:04,815 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:03:04,830 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:03:04,871 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:06,918 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:06,964 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:03:07,998 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:03:08,074 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 10:03:08,095 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:03:08,175 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:03:08,196 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:03:08,256 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:10,270 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:10,295 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:03:11,339 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:03:11,449 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:03:11,464 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:03:11,510 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 10:03:11,526 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:03:11,573 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:13,589 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:13,629 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:03:14,671 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:03:14,750 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:03:14,764 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:03:14,810 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 10:03:14,825 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:03:14,872 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:16,895 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:16,952 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:03:17,992 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:03:18,064 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:03:18,077 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:03:18,132 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 10:03:18,145 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:03:18,189 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:20,203 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:20,227 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:03:21,258 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:03:21,322 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:03:21,334 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:03:21,409 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 10:03:21,424 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:03:21,472 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:23,485 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:23,512 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:03:24,525 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:03:24,590 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:03:24,605 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:03:24,666 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 10:03:24,681 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:03:24,722 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:26,768 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:26,813 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:03:27,840 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:03:27,906 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:03:27,918 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:03:27,959 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 10:03:27,974 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:03:28,021 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:03:30,033 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:03:30,062 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:14:32,279 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:14:35,711 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:14:38,606 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:14:38,629 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:14:38,713 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:14:38,733 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:14:38,821 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:14:38,841 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:14:38,891 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:14:39,917 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:14:39,991 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:14:41,013 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:14:41,137 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:14:45,358 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:14:48,877 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:14:51,841 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:14:51,865 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:14:51,952 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:14:51,972 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:14:52,068 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:14:52,086 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:14:52,120 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:14:53,148 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:14:53,236 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:14:54,257 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:14:54,392 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:14:56,415 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 10:14:56,474 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 10:14:57,494 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 10:14:57,551 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 10:14:57,574 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 10:14:57,650 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:14:58,670 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 10:14:58,720 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:15:00,743 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:15:00,787 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:15:01,827 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 10:15:01,880 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 10:15:01,896 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 10:15:01,970 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:15:02,985 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 10:15:03,030 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:15:05,045 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:15:05,070 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:15:06,085 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 10:15:06,139 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 10:15:06,153 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 10:15:06,210 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:15:07,222 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 10:15:07,262 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:15:09,278 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:15:09,304 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:15:10,317 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 10:15:10,385 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 10:15:10,400 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 10:15:10,463 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:15:11,500 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 10:15:11,545 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:15:13,559 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:15:13,586 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:15:14,633 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 10:15:14,701 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 10:15:14,713 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 10:15:14,773 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:15:15,786 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 10:15:15,826 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:15:17,841 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:15:17,870 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:15:18,884 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 10:15:18,943 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:15:18,960 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 10:15:19,004 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 10:15:20,017 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 10:15:20,057 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:15:22,073 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'' 
+2020-05-21 10:16:24,506 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:16:27,839 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:16:30,770 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:16:30,794 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:16:30,877 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:16:30,897 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:16:30,989 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:16:31,011 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:16:31,056 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:16:32,085 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:16:32,154 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:16:33,180 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:16:33,307 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:16:35,328 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 10:16:35,389 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 10:16:36,421 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 10:16:36,496 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:16:36,518 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 10:16:36,588 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:16:37,609 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 10:16:37,661 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:16:39,674 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 10:16:39,714 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 10:16:40,732 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 10:16:40,808 - BasePage - INFO - 输入文本内容：' 222 '
+2020-05-21 10:16:40,825 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 10:16:40,908 - BasePage - INFO - 输入文本内容：' 222 '
+2020-05-21 10:16:41,926 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 10:16:41,974 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:16:43,989 - BasePage - INFO - 通过 xpath via value: //*[@id="app"]/section/section/main/div/div[2]/div[3]/div/div[1]/button 定位元素成功：'添加MCC' 
+2020-05-21 10:16:44,032 - BasePage - INFO - 元素'添加MCC'\ 被点击.
+2020-05-21 10:16:45,080 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MCC"] 定位元素成功：'' 
+2020-05-21 10:16:45,157 - BasePage - INFO - 输入文本内容：' 333 '
+2020-05-21 10:16:45,175 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入国家/区域'] 定位元素成功：'' 
+2020-05-21 10:16:45,242 - BasePage - INFO - 输入文本内容：' 333 '
+2020-05-21 10:16:46,260 - BasePage - INFO - 通过 xpath via value: //i[@class="el-icon-folder"] 定位元素成功：'' 
+2020-05-21 10:16:46,307 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:16:49,497 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:16:52,823 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:16:55,734 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:16:55,758 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:16:55,847 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:16:55,867 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:16:55,956 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:16:55,977 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:16:56,021 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:16:57,048 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:16:57,105 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:16:58,153 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:16:58,273 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:16:59,295 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:16:59,364 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 10:17:01,386 - BasePage - INFO - 通过 xpath via value: /html/body/div[4]/div/div[2]/form/div[4]/div/div/label[1]/span[1]/span 定位元素成功：'' 
+2020-05-21 10:17:01,442 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 10:17:01,463 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:01,520 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 10:17:01,543 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:01,621 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:01,643 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:01,703 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:03,763 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:03,802 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:04,823 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:04,870 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 10:17:04,884 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:04,950 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:04,965 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:05,015 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:07,031 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:07,070 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:08,084 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:08,144 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 10:17:08,156 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:08,225 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:08,238 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:08,280 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:10,295 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:10,333 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:11,347 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:11,420 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 10:17:11,436 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:11,497 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:11,510 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:11,545 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:13,562 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:13,614 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:14,629 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:14,687 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 10:17:14,701 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:14,759 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:14,771 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:14,816 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:16,830 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:16,869 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:17,905 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:17,986 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:18,001 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:18,050 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 10:17:18,066 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:18,112 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:20,130 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:20,169 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:21,207 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:21,311 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:21,324 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:21,368 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 10:17:21,383 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:21,429 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:23,466 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:23,503 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:24,535 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:24,597 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:24,611 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:24,666 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 10:17:24,680 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:24,730 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:26,773 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:26,820 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:27,833 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:27,916 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:27,932 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:27,997 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 10:17:28,011 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:28,061 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:30,076 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:30,101 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:31,117 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:31,181 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:31,196 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:31,250 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 10:17:31,264 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:31,313 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:33,328 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:33,369 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:34,383 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入MNC"] 定位元素成功：'' 
+2020-05-21 10:17:34,451 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 10:17:34,465 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 10:17:34,507 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 10:17:34,520 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--primary el-button--medium"] 定位元素成功：'保存' 
+2020-05-21 10:17:34,562 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 10:17:36,578 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 10:17:36,601 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 10:17:39,797 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:17:43,194 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:17:46,080 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:17:46,103 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:17:46,186 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:17:46,206 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:17:46,296 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:17:46,316 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:17:46,372 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:17:47,396 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:17:47,456 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:17:48,476 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:17:48,610 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:17:49,632 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:17:49,696 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 10:18:01,741 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:24:06,600 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:24:10,016 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:24:12,964 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:24:12,987 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:24:13,077 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:24:13,097 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:24:13,187 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:24:13,209 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:24:13,249 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:24:14,275 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:24:14,344 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:24:15,364 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:24:15,514 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:24:20,826 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:24:24,137 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:24:27,085 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:24:27,109 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:24:27,181 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:24:27,201 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:24:27,285 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:24:27,306 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:24:27,350 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:24:28,380 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:24:28,454 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:24:29,474 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:24:29,604 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:24:30,626 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:24:30,692 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 10:24:32,714 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--success is-plain"])[2] 定位元素成功：'添加MNC' 
+2020-05-21 10:24:35,950 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:24:39,248 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:24:42,180 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:24:42,205 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:24:42,285 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:24:42,307 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:24:42,399 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:24:42,421 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:24:42,463 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:24:43,493 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:24:43,550 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:24:44,572 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:24:44,703 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:24:45,724 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:24:45,792 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 10:24:47,850 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--success is-plain"])[2] 定位元素成功：'添加MNC' 
+2020-05-21 10:24:48,911 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:30:40,122 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:30:43,460 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:30:46,371 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:30:46,396 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:30:46,481 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:30:46,501 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:30:46,591 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:30:46,612 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:30:46,662 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:30:47,689 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:30:47,746 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:30:48,783 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:30:48,915 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:30:49,939 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:30:50,003 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 10:30:52,024 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--success is-plain"])[2] 定位元素成功：'添加MNC' 
+2020-05-21 10:30:55,247 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:30:58,599 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:31:01,491 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:31:01,514 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:31:01,588 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:31:01,608 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:31:01,694 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:31:01,715 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:31:01,761 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:31:02,787 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:31:02,845 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:31:03,867 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:31:03,994 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:31:05,047 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:31:05,121 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 10:31:07,142 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--success is-plain"])[2] 定位元素成功：'添加MNC' 
+2020-05-21 10:31:08,191 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:31:11,402 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:31:14,762 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:31:17,738 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:31:17,761 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:31:17,836 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:31:17,856 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:31:17,943 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:31:17,963 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:31:18,010 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:31:19,041 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:31:19,121 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:31:20,142 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:31:20,267 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:59:00,802 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:59:04,309 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 10:59:07,217 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 10:59:07,240 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 10:59:07,314 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 10:59:07,334 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 10:59:07,423 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 10:59:07,444 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 10:59:07,490 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 10:59:08,518 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 10:59:08,588 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 10:59:09,608 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 10:59:09,717 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 10:59:10,741 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 10:59:10,815 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 10:59:12,843 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--success is-plain"])[2] 定位元素成功：'添加MNC' 
+2020-05-21 10:59:16,087 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 10:59:19,515 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 11:00:48,107 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 11:00:51,599 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 11:00:54,523 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 11:00:54,546 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 11:00:54,627 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 11:00:54,649 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 11:00:54,739 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 11:00:54,759 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 11:00:54,805 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 11:00:55,837 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 11:00:55,907 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 11:00:56,928 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 11:00:57,035 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 11:00:58,055 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 11:00:58,131 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 11:01:00,152 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--success is-plain"])[2] 定位元素成功：'添加MNC' 
+2020-05-21 11:01:03,404 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 11:01:06,848 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 11:01:09,760 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 11:01:09,804 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 11:01:09,883 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 11:01:09,905 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 11:01:09,997 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 11:01:10,018 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 11:01:10,071 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 11:01:11,103 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 11:01:11,182 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 11:01:12,204 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 11:01:12,320 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 11:01:13,341 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 11:01:13,413 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 11:01:15,435 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--success is-plain"])[2] 定位元素成功：'添加MNC' 
+2020-05-21 11:01:16,496 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 11:01:19,732 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 11:01:23,102 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 11:01:26,048 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 11:01:26,072 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 11:01:26,161 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 11:01:26,182 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 11:01:26,278 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 11:01:26,296 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 11:01:26,336 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 11:01:27,371 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 11:01:27,441 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 11:01:28,462 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 11:01:28,568 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 11:03:01,821 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 11:03:05,330 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 11:03:08,265 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 11:03:08,288 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 11:03:08,380 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 11:03:08,401 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 11:03:08,488 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 11:03:08,507 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 11:03:08,560 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 11:03:09,583 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 11:03:09,673 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 11:03:10,696 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 11:03:10,816 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 11:03:11,838 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 11:03:11,912 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 11:03:13,934 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--success is-plain"])[2] 定位元素成功：'添加MNC' 
+2020-05-21 11:04:32,177 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 11:04:35,575 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 11:04:38,504 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 11:04:38,528 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 11:04:38,611 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 11:04:38,632 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 11:04:38,727 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 11:04:38,746 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 11:04:38,784 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 11:04:39,815 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 11:04:39,897 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 11:04:40,919 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 11:04:41,032 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 11:04:42,053 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 11:04:42,127 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 11:04:43,148 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:04:43,204 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 11:04:43,226 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:04:43,303 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:04:43,328 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:04:43,384 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:04:45,404 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:04:45,453 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:04:46,469 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:04:46,517 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 11:04:46,531 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:04:46,596 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:04:46,610 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:04:46,665 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:04:48,679 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:04:48,716 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:04:49,732 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:04:49,800 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 11:04:49,814 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:04:49,882 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:04:49,896 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:04:49,944 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:04:51,960 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:04:52,001 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:04:53,045 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:04:53,126 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 11:04:53,138 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:04:53,200 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:04:53,216 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:04:53,261 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:04:55,275 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:04:55,316 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:04:56,337 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:04:56,414 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 11:04:56,436 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:04:56,515 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:04:56,536 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:04:56,593 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:04:58,606 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:04:58,632 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:04:59,648 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:04:59,717 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:04:59,732 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:04:59,777 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 11:04:59,790 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:04:59,835 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:05:01,849 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:05:01,883 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:05:02,898 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:05:02,968 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:05:02,983 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:05:03,027 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 11:05:03,039 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:05:03,098 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:05:05,123 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:05:05,149 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:05:06,162 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:05:06,232 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:05:06,245 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:05:06,300 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 11:05:06,315 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:05:06,362 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:05:08,388 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:05:08,415 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:05:09,430 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:05:09,497 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:05:09,510 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:05:09,579 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 11:05:09,596 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:05:09,643 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:05:11,657 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:05:11,682 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:05:12,696 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:05:12,765 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:05:12,778 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:05:12,835 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 11:05:12,851 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:05:12,894 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:05:14,908 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:05:14,950 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:05:15,992 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:05:16,102 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:05:16,117 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:05:16,164 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 11:05:16,176 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"]) 定位元素成功：'保存' 
+2020-05-21 11:05:16,209 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:05:18,224 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:05:18,249 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:13:38,782 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 11:13:42,607 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 11:13:45,569 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 11:13:45,594 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 11:13:45,677 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 11:13:45,697 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 11:13:45,787 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 11:13:45,808 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 11:13:45,845 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 11:13:46,874 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 11:13:46,964 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 11:13:47,985 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 11:13:48,088 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 11:13:49,108 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 11:13:49,173 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 11:13:51,192 - BasePage - INFO - 通过 xpath via value: /html/body/div[4]/div/div[2]/form/div[4]/div/div/label[1]/span[1]/span 定位元素成功：'' 
+2020-05-21 11:13:51,230 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:13:51,252 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:13:51,311 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 11:13:51,334 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:13:51,414 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:13:51,434 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:13:51,464 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:14:03,524 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:14:03,584 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 11:14:03,604 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:14:03,685 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:14:03,704 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:14:03,748 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:14:15,793 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:14:15,848 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 11:14:15,860 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:14:15,922 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:14:15,935 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:14:15,979 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:14:28,036 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:14:28,106 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 11:14:28,123 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:14:28,179 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:14:28,193 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:14:28,230 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:14:40,300 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:14:40,350 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 11:14:40,361 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:14:40,412 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:14:40,424 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:14:40,462 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:14:52,525 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:14:52,597 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:14:52,611 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:14:52,655 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 11:14:52,667 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:14:52,697 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:15:04,737 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:15:04,853 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:15:04,878 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:15:04,980 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 11:15:05,005 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:15:05,060 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:15:17,124 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:15:17,274 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:15:17,306 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:15:17,414 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 11:15:17,443 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:15:17,506 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:15:29,581 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:15:29,687 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:15:29,710 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:15:29,811 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 11:15:29,834 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:15:29,881 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:15:41,929 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:15:42,017 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:15:42,039 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:15:42,124 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 11:15:42,150 - BasePage - INFO - 通过 xpath via value: (//span[@class="el-checkbox__inner"])[1] 定位元素成功：'' 
+2020-05-21 11:15:42,194 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:16:50,304 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-05-21 11:16:53,689 - BrowserEngine - INFO - Chrome已经启动...
+2020-05-21 11:16:56,581 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-05-21 11:16:56,606 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-05-21 11:16:56,699 - BasePage - INFO - 输入文本内容：' admin '
+2020-05-21 11:16:56,719 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-05-21 11:16:56,811 - BasePage - INFO - 输入文本内容：' GDJC6880 '
+2020-05-21 11:16:56,830 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-05-21 11:16:56,876 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-05-21 11:16:57,901 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-05-21 11:16:57,961 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-05-21 11:16:58,982 - BasePage - INFO - 通过 xpath via value: //span[text()='PLMN管理'] 定位元素成功：'PLMN管理' 
+2020-05-21 11:16:59,111 - BasePage - INFO - 元素'PLMN管理'\ 被点击.
+2020-05-21 11:17:00,132 - BasePage - INFO - 通过 xpath via value: //span[contains(text(),"添加MNC")] 定位元素成功：'添加MNC' 
+2020-05-21 11:17:00,203 - BasePage - INFO - 元素'添加MNC'\ 被点击.
+2020-05-21 11:17:02,223 - BasePage - INFO - 通过 xpath via value: /html/body/div[4]/div/div[2]/form/div[4]/div/div/label[1]/span[1]/span 定位元素成功：'' 
+2020-05-21 11:17:02,279 - BasePage - INFO - 元素''\ 被点击.
+2020-05-21 11:17:02,303 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:02,367 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 11:17:02,389 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:02,475 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:02,498 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:02,558 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:04,580 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:04,625 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:05,639 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:05,689 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 11:17:05,703 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:05,766 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:05,780 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:05,818 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:07,842 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:07,892 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:08,913 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:08,996 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 11:17:09,017 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:09,104 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:09,125 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:09,184 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:11,198 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:11,224 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:12,237 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:12,327 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 11:17:12,342 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:12,404 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:12,418 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:12,468 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:14,483 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:14,506 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:15,519 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:15,583 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 11:17:15,597 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:15,660 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:15,673 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:15,718 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:17,731 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:17,759 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:18,772 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:18,841 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:18,854 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:18,903 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 11:17:18,917 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:18,970 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:20,987 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:21,026 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:22,039 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:22,109 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:22,123 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:22,168 - BasePage - INFO - 输入文本内容：' a '
+2020-05-21 11:17:22,182 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:22,219 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:24,232 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:24,256 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:25,270 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:25,338 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:25,351 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:25,409 - BasePage - INFO - 输入文本内容：' -1 '
+2020-05-21 11:17:25,423 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:25,467 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:27,480 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:27,506 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:28,520 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:28,597 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:28,608 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:28,676 - BasePage - INFO - 输入文本内容：' 33@3 '
+2020-05-21 11:17:28,690 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:28,735 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:30,749 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:30,772 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:31,786 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:31,855 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:31,870 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:31,929 - BasePage - INFO - 输入文本内容：' 中文 '
+2020-05-21 11:17:31,942 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:31,984 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:34,026 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:34,057 - BasePage - INFO - 元素'确定'\ 被点击.
+2020-05-21 11:17:35,071 - BasePage - INFO - 通过 xpath via value: (//input[@placeholder="请输入MNC"]) 定位元素成功：'' 
+2020-05-21 11:17:35,143 - BasePage - INFO - 输入文本内容：' 111 '
+2020-05-21 11:17:35,156 - BasePage - INFO - 通过 xpath via value: //input[@placeholder="请输入运营商"] 定位元素成功：'' 
+2020-05-21 11:17:35,200 - BasePage - INFO - 输入文本内容：'  '
+2020-05-21 11:17:35,220 - BasePage - INFO - 通过 xpath via value: (//button[@class="el-button el-button--primary el-button--medium"])[1] 定位元素成功：'保存' 
+2020-05-21 11:17:35,271 - BasePage - INFO - 元素'保存'\ 被点击.
+2020-05-21 11:17:37,285 - BasePage - INFO - 通过 xpath via value: //button[@class="el-button el-button--default el-button--small el-button--primary "] 定位元素成功：'确定' 
+2020-05-21 11:17:37,324 - BasePage - INFO - 元素'确定'\ 被点击.

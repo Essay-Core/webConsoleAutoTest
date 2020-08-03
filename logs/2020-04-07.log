@@ -1,0 +1,259 @@
+2020-04-07 14:03:54,607 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:03:58,796 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:04:02,400 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:04:02,566 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:04:02,690 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:04:02,724 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:04:02,905 - BasePage - INFO - 输入文本内容：' 1234561 '
+2020-04-07 14:04:02,941 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:04:03,028 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:04:06,657 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:04:08,833 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:04:11,259 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:04:13,168 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:04:13,237 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:04:13,324 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:04:13,355 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:04:13,464 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:04:13,503 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:04:13,556 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:04:16,924 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:19:51,294 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:19:53,631 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:19:55,723 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:19:55,758 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:19:55,866 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:19:55,895 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:19:56,033 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:19:56,059 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:19:56,120 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:19:57,180 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-04-07 14:19:57,279 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-04-07 14:19:58,323 - BasePage - INFO - 通过 xpath via value: //span[text()='设备时间'] 定位元素成功：'设备时间' 
+2020-04-07 14:19:58,465 - BasePage - INFO - 元素'设备时间'\ 被点击.
+2020-04-07 14:19:59,501 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div[1]/div[2]/div[2]/div[2]/div/input 定位元素成功：'' 
+2020-04-07 14:19:59,619 - BasePage - INFO - 元素''\ 被点击.
+2020-04-07 14:29:25,345 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:29:27,484 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:29:29,335 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:29:29,389 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:29:29,488 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:29:29,518 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:29:29,603 - BasePage - INFO - 输入文本内容：' 1234561 '
+2020-04-07 14:29:29,636 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:29:29,689 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:29:33,216 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:29:35,351 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:29:37,462 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:29:39,317 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:29:39,350 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:29:39,442 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:29:39,470 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:29:39,554 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:29:39,584 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:29:39,640 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:29:43,036 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:32:33,502 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:32:35,680 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:32:37,568 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:32:37,609 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:32:37,706 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:32:37,735 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:32:37,813 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:32:37,843 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:32:37,895 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:32:38,945 - BasePage - INFO - 通过 xpath via value: //span[text()='基站管理'] 定位元素成功：'基站管理' 
+2020-04-07 14:32:39,037 - BasePage - INFO - 元素'基站管理'\ 被点击.
+2020-04-07 14:32:40,075 - BasePage - INFO - 通过 xpath via value: //span[text()='功放管理'] 定位元素成功：'功放管理' 
+2020-04-07 14:32:40,246 - BasePage - INFO - 元素'功放管理'\ 被点击.
+2020-04-07 14:32:41,282 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div[1]/div/button[1]/span 定位元素成功：'刷新' 
+2020-04-07 14:32:41,353 - BasePage - INFO - 元素'刷新'\ 被点击.
+2020-04-07 14:32:43,696 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:32:45,851 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:32:48,015 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:32:49,913 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:32:49,974 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:32:50,070 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:32:50,103 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:32:50,190 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:32:50,216 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:32:50,268 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:32:51,307 - BasePage - INFO - 通过 xpath via value: //span[text()='基站管理'] 定位元素成功：'基站管理' 
+2020-04-07 14:32:51,405 - BasePage - INFO - 元素'基站管理'\ 被点击.
+2020-04-07 14:32:52,430 - BasePage - INFO - 通过 xpath via value: //span[text()='功放管理'] 定位元素成功：'功放管理' 
+2020-04-07 14:32:52,571 - BasePage - INFO - 元素'功放管理'\ 被点击.
+2020-04-07 14:32:53,633 - BasePage - INFO - 通过 xpath via value: //span[text()='开启所有功放'] 定位元素成功：'开启所有功放' 
+2020-04-07 14:32:53,713 - BasePage - INFO - 元素'开启所有功放'\ 被点击.
+2020-04-07 14:32:55,087 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:32:57,236 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:32:59,385 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:33:01,340 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:33:01,403 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:33:01,495 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:33:01,520 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:33:01,601 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:33:01,634 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:33:01,690 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:33:02,719 - BasePage - INFO - 通过 xpath via value: //span[text()='基站管理'] 定位元素成功：'基站管理' 
+2020-04-07 14:33:02,845 - BasePage - INFO - 元素'基站管理'\ 被点击.
+2020-04-07 14:33:03,872 - BasePage - INFO - 通过 xpath via value: //span[text()='功放管理'] 定位元素成功：'功放管理' 
+2020-04-07 14:33:04,019 - BasePage - INFO - 元素'功放管理'\ 被点击.
+2020-04-07 14:33:05,055 - BasePage - INFO - 通过 xpath via value: //span[text()='关闭所有功放'] 定位元素成功：'关闭所有功放' 
+2020-04-07 14:33:05,144 - BasePage - INFO - 元素'关闭所有功放'\ 被点击.
+2020-04-07 14:33:06,570 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:37:10,928 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:37:13,215 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:37:15,062 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:37:15,100 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:37:15,188 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:37:15,223 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:37:15,332 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:37:15,377 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:37:15,430 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:37:16,470 - BasePage - INFO - 通过 xpath via value: //span[text()='基站管理'] 定位元素成功：'基站管理' 
+2020-04-07 14:37:16,582 - BasePage - INFO - 元素'基站管理'\ 被点击.
+2020-04-07 14:37:17,609 - BasePage - INFO - 通过 xpath via value: //span[text()='功放管理'] 定位元素成功：'功放管理' 
+2020-04-07 14:37:17,754 - BasePage - INFO - 元素'功放管理'\ 被点击.
+2020-04-07 14:37:18,798 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div[1]/div/button[1]/span 定位元素成功：'刷新' 
+2020-04-07 14:37:18,884 - BasePage - INFO - 元素'刷新'\ 被点击.
+2020-04-07 14:37:21,220 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:37:23,375 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:37:25,526 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:37:27,399 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:37:27,439 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:37:27,521 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:37:27,555 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:37:27,647 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:37:27,675 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:37:27,730 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:37:28,773 - BasePage - INFO - 通过 xpath via value: //span[text()='基站管理'] 定位元素成功：'基站管理' 
+2020-04-07 14:37:28,884 - BasePage - INFO - 元素'基站管理'\ 被点击.
+2020-04-07 14:37:29,911 - BasePage - INFO - 通过 xpath via value: //span[text()='功放管理'] 定位元素成功：'功放管理' 
+2020-04-07 14:37:30,053 - BasePage - INFO - 元素'功放管理'\ 被点击.
+2020-04-07 14:37:31,088 - BasePage - INFO - 通过 xpath via value: //span[text()='开启所有功放'] 定位元素成功：'开启所有功放' 
+2020-04-07 14:37:31,179 - BasePage - INFO - 元素'开启所有功放'\ 被点击.
+2020-04-07 14:37:32,553 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:37:34,722 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:37:36,870 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:37:38,681 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:37:38,710 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:37:38,814 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:37:38,849 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:37:38,937 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:37:38,969 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:37:39,020 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:37:40,088 - BasePage - INFO - 通过 xpath via value: //span[text()='基站管理'] 定位元素成功：'基站管理' 
+2020-04-07 14:37:40,190 - BasePage - INFO - 元素'基站管理'\ 被点击.
+2020-04-07 14:37:41,217 - BasePage - INFO - 通过 xpath via value: //span[text()='功放管理'] 定位元素成功：'功放管理' 
+2020-04-07 14:37:41,350 - BasePage - INFO - 元素'功放管理'\ 被点击.
+2020-04-07 14:37:42,382 - BasePage - INFO - 通过 xpath via value: //span[text()='关闭所有功放'] 定位元素成功：'关闭所有功放' 
+2020-04-07 14:37:42,457 - BasePage - INFO - 元素'关闭所有功放'\ 被点击.
+2020-04-07 14:37:43,819 - BasePage - INFO - 开始截图并保存
+2020-04-07 14:43:58,829 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:44:01,021 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:44:02,855 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:44:02,889 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:44:02,981 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:44:03,133 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:44:03,240 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:44:03,272 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:44:03,325 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:44:04,373 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-04-07 14:44:04,477 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-04-07 14:44:05,502 - BasePage - INFO - 通过 xpath via value: //span[text()='设备时间'] 定位元素成功：'设备时间' 
+2020-04-07 14:44:05,609 - BasePage - INFO - 元素'设备时间'\ 被点击.
+2020-04-07 14:44:06,639 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div[1]/div[2]/div[2]/div[2]/div/input 定位元素成功：'' 
+2020-04-07 14:44:06,754 - BasePage - INFO - 元素''\ 被点击.
+2020-04-07 14:46:18,785 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:46:20,967 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:46:22,879 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:46:22,923 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:46:23,024 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:46:23,055 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:46:23,136 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:46:23,162 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:46:23,212 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:46:24,261 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-04-07 14:46:24,356 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-04-07 14:46:25,383 - BasePage - INFO - 通过 xpath via value: //span[text()='设备时间'] 定位元素成功：'设备时间' 
+2020-04-07 14:46:25,516 - BasePage - INFO - 元素'设备时间'\ 被点击.
+2020-04-07 14:46:26,547 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div[1]/div[2]/div[2]/div[2]/div/input 定位元素成功：'' 
+2020-04-07 14:46:26,652 - BasePage - INFO - 元素''\ 被点击.
+2020-04-07 14:49:17,725 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 14:49:20,099 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 14:49:21,926 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 14:49:21,963 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 14:49:22,076 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 14:49:22,109 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 14:49:22,201 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 14:49:22,250 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 14:49:22,303 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 14:49:23,346 - BasePage - INFO - 通过 xpath via value: //span[text()='基本设置'] 定位元素成功：'基本设置' 
+2020-04-07 14:49:23,446 - BasePage - INFO - 元素'基本设置'\ 被点击.
+2020-04-07 14:49:24,473 - BasePage - INFO - 通过 xpath via value: //span[text()='设备时间'] 定位元素成功：'设备时间' 
+2020-04-07 14:49:24,596 - BasePage - INFO - 元素'设备时间'\ 被点击.
+2020-04-07 14:49:25,623 - BasePage - INFO - 通过 xpath via value: //*[@id='app']/section/section/main/div/div[2]/div[3]/div[1]/div[2]/div[2]/div[2]/div/input 定位元素成功：'' 
+2020-04-07 14:49:25,734 - BasePage - INFO - 元素''\ 被点击.
+2020-04-07 16:17:32,576 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 16:17:35,076 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 16:17:37,070 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 16:17:56,733 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 16:17:56,817 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 16:17:56,855 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 16:17:56,937 - BasePage - INFO - 输入文本内容：' 1234561 '
+2020-04-07 16:17:56,972 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 16:17:57,027 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 16:18:00,607 - BasePage - INFO - 开始截图并保存
+2020-04-07 16:18:25,934 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 16:18:28,147 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 16:18:30,735 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 16:18:30,834 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 16:18:30,940 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 16:18:30,980 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 16:18:31,086 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 16:18:31,123 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 16:18:31,186 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 16:18:34,766 - BasePage - INFO - 开始截图并保存
+2020-04-07 16:19:00,998 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 16:19:03,208 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 16:19:05,094 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 16:19:05,133 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 16:19:05,230 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 16:19:05,257 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 16:19:05,356 - BasePage - INFO - 输入文本内容：' 1234561 '
+2020-04-07 16:19:05,385 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 16:19:05,442 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 16:19:08,964 - BasePage - INFO - 开始截图并保存
+2020-04-07 16:19:11,114 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 16:19:13,274 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 16:19:15,250 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 16:19:15,287 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 16:19:15,365 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 16:19:15,405 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 16:19:15,489 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 16:19:15,523 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 16:19:15,572 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 16:19:18,940 - BasePage - INFO - 开始截图并保存
+2020-04-07 16:22:14,459 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 16:22:16,662 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 16:22:18,714 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 16:22:20,840 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 16:22:23,040 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 16:22:24,888 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 16:22:24,923 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 16:22:25,015 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 16:22:25,043 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 16:22:25,128 - BasePage - INFO - 输入文本内容：' 1234561 '
+2020-04-07 16:22:25,165 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 16:22:25,232 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 16:22:28,769 - BasePage - INFO - 开始截图并保存
+2020-04-07 16:22:30,903 - BrowserEngine - INFO - 本次测试使用浏览器：Chrome
+2020-04-07 16:22:33,028 - BrowserEngine - INFO - Chrome已经启动...
+2020-04-07 16:22:34,958 - BrowserEngine - INFO - 浏览器窗口最大化
+2020-04-07 16:22:34,999 - BasePage - INFO - 通过 xpath via value: //input[@placeholder='请输入用户名'] 定位元素成功：'' 
+2020-04-07 16:22:35,083 - BasePage - INFO - 输入文本内容：' admin '
+2020-04-07 16:22:35,111 - BasePage - INFO - 通过 xpath via value: //input[@type='password'] 定位元素成功：'' 
+2020-04-07 16:22:35,192 - BasePage - INFO - 输入文本内容：' 123456 '
+2020-04-07 16:22:35,221 - BasePage - INFO - 通过 xpath via value: //span[text()='登录'] 定位元素成功：'登录' 
+2020-04-07 16:22:35,277 - BasePage - INFO - 元素'登录'\ 被点击.
+2020-04-07 16:22:38,640 - BasePage - INFO - 开始截图并保存
